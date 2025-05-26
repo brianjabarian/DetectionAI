@@ -75,10 +75,9 @@ Key points include:
 2. **Model Choice**—Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
 3. **Reproducibility Package** – All notebooks, prompts, and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
 4. **Training-Data Separation** – We do not upload any confidential data to third-party services.
-5. **Chain-of-Thought Transparency** – Reasoning traces saved by the notebooks include one quantitative quality metric.
-6. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
-7. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
-8. **Reviewer Checklist** – The repository contains, to the best of our knowledge, sufficient material to satisfy the policy's reproducibility checklist.
+5. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
+6. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
+7. **Reviewer Checklist** – The repository contains, to the best of our knowledge, sufficient material to satisfy the policy's reproducibility checklist.
 
 
 ## Contributors
