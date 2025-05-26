@@ -62,7 +62,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you build upon this work, please cite it as:
 
 ```
-Brian Jabarian. "DetectionAI: Evaluating AI-generated text detectors." 2025.
+Alex Imas, Brian Jabarian. "DetectionAI: Evaluating AI-generated text detectors." 2025.
 ```
 
 Feel free to contact the author for clarification or collaboration requests.
