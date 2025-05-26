@@ -98,8 +98,8 @@ Alex Imas, Brian Jabarian. "DetectionAI: Evaluating AI-generated text detectors.
 
 Feel free to contact the author for clarification requests.
 
-aleximas@chicagobooth.edu
-brianjabarian@chicagobooth.edu
+alex.imas@chicagobooth.edu
+brian.jabarian@chicagobooth.edu
 
 ## References
 
