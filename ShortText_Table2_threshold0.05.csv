@@ -1,0 +1,29 @@
+,Genre,Detector,Metric,Value,CI Lower,CI Upper,True Positives,False Positives,Total Detected as AI,False Negatives,Total AI
+0,amazon review,gptzero,Precision,0.9846153846153847,0.9178671527044854,0.9972790553979767,64,1.0,65.0,,
+1,amazon review,gptzero,Recall,0.9696969696969697,0.8960747808829028,0.9916500898013462,64,,,2.0,66.0
+2,amazon review,originality,Precision,,,,0,0.0,0.0,,
+3,amazon review,originality,Recall,,,,0,,,0.0,0.0
+4,amazon review,pengram,Precision,0.9305555555555556,0.8475202051632648,0.9699746184342299,67,5.0,72.0,,
+5,amazon review,pengram,Recall,1.0,0.9457738606086981,0.9999999999999998,67,,,0.0,67.0
+6,amazon review,roberta-base-detector,Precision,1.0,0.20654931437723742,1.0,1,0.0,1.0,,
+7,amazon review,roberta-base-detector,Recall,0.014925373134328358,0.0026395717340788904,0.07981862319778105,1,,,66.0,67.0
+8,blog,gptzero,Precision,0.9827586206896551,0.9085914190653199,0.9969499615539326,57,1.0,58.0,,
+9,blog,gptzero,Recall,0.9827586206896551,0.9085914190653199,0.9969499615539326,57,,,1.0,58.0
+10,blog,pengram,Precision,0.90625,0.810171204003544,0.9563217474148017,58,6.0,64.0,,
+11,blog,pengram,Recall,1.0,0.9378821442127971,1.0,58,,,0.0,58.0
+12,blog,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+13,blog,roberta-base-detector,Recall,0.0,0.0,0.062117855787202914,0,,,58.0,58.0
+14,news,gptzero,Precision,1.0,0.6456695649333126,1.0,7,0.0,7.0,,
+15,news,gptzero,Recall,0.875,0.5291118177871466,0.9775825085499433,7,,,1.0,8.0
+16,news,pengram,Precision,0.6666666666666666,0.39062208887279953,0.8618799089087867,8,4.0,12.0,,
+17,news,pengram,Recall,1.0,0.6755924351161198,1.0,8,,,0.0,8.0
+18,news,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+19,news,roberta-base-detector,Recall,0.0,0.0,0.32440756488388023,0,,,8.0,8.0
+20,restaurant review,gptzero,Precision,0.9354838709677419,0.8455248427224712,0.9746270944795592,58,4.0,62.0,,
+21,restaurant review,gptzero,Recall,0.9666666666666667,0.886362257256914,0.990810680743802,58,,,2.0,60.0
+22,restaurant review,originality,Precision,0.0,0.0,0.6576197724933469,0,2.0,2.0,,
+23,restaurant review,originality,Recall,,,,0,,,0.0,0.0
+24,restaurant review,pengram,Precision,0.967741935483871,0.8897953040501456,0.9911086285001834,60,2.0,62.0,,
+25,restaurant review,pengram,Recall,1.0,0.93982814785791,0.9999999999999998,60,,,0.0,60.0
+26,restaurant review,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+27,restaurant review,roberta-base-detector,Recall,0.0,0.0,0.06017185214208986,0,,,60.0,60.0
