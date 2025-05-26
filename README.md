@@ -72,13 +72,17 @@ Key points include:
    - **Pengram**
    - **GPTZero**
    - **Originality**
-   - **roberta-base-detector**
-2. **Model Choice**—Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
-3. **Reproducibility Package** – All notebooks, prompts, and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
-4. **Training-Data Separation** – We do not upload any confidential data to third-party services.
-5. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
-6. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
-7. **Reviewer Checklist** – The repository contains, to the best of our knowledge, sufficient material to satisfy the policy's reproducibility checklist.
+   - **roberta-base-detector** 
+2. **AI-Detector Choice**—Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
+3. **AI-Generating Model** We used GPT-3.5-turbo to generate the AI writings following this parametrization:
+   - model="gpt-3.5-turbo",
+   - temperature=0.7,
+   - max_tokens=min(word_count * 2, 2048)
+5. **Reproducibility Package** – All notebooks, prompts, and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
+6. **Training-Data Separation** – We do not upload any confidential data to third-party services.
+7. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
+8. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
+9. **Reviewer Checklist** – The repository contains, to the best of our knowledge, sufficient material to satisfy the policy's reproducibility checklist.
 
 
 ## Contributors
