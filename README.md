@@ -10,6 +10,7 @@ DetectionAI investigates how reliably we can identify AI-generated writing. The 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
+- [Study Design](#study-design)
 - [Usage](#usage)
 - [License](#license)
 - [Citation](#citation)
@@ -37,6 +38,15 @@ pip install -r requirements.txt
 Run `Code_statistics_part.ipynb` first. It loads the dataset JSON files and
 produces summary tables such as [Table1_overall.csv](Table1_overall.csv).
 Look for AUROC scores close to 1.0 indicating strong detection.
+
+## Study Design
+Our workflow involves several steps:
+1. Gather pre-2020 human-written texts spanning different genres.
+2. Create AI-generated versions of these texts using the following prompt [].
+3. Evaluate multiple AI detectors on the combined dataset, reporting type I and type II error rates overall and by genre.
+4. Examine how performance changes when detection thresholds vary.
+5. Repeat the evaluation for short passages (49 words or fewer).
+6. "Humanize" the AI-generated texts with the StealthGPT tool and re-test them using the best-performing detector, Pengram.
 
 ## Usage
 The notebooks were developed in **Google Colab**, but they can be run locally as
