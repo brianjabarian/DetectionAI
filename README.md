@@ -16,11 +16,10 @@ DetectionAI investigates how reliably we can identify AI-generated writing. The 
 - [Citation](#citation)
 
 ## Repository Contents
-- **Code_detection.ipynb** – baseline detection notebook.
-- **Code_new_detection_withStealthgpt.ipynb** – experiments using the StealthGPT dataset.
-- **Code_shorter_text_analysis.ipynb** – analysis of short text samples.
-- **Code_statistics_part.ipynb** – helper notebook with statistics utilities.
-- **CSV files** – tables of detection results used in the notebooks.
+- `notebooks/` – Jupyter notebooks for running the detection experiments.
+- `results/` – CSV tables produced by the notebooks.
+- `data/` – placeholder directory for raw datasets.
+- `requirements.txt` – Python dependencies for the project.
 
 ## Prerequisites
 This project requires **Python 3.10+**. The main Python packages used are listed
@@ -35,8 +34,8 @@ pip install -r requirements.txt
 ```
 
 ## Quick Start
-Run `Code_statistics_part.ipynb` first. It loads the dataset JSON files and
-produces summary tables such as [Table1_overall.csv](Table1_overall.csv).
+Run `notebooks/Code_statistics_part.ipynb` first. It loads the dataset JSON files and
+produces summary tables such as [results/Table1_overall.csv](results/Table1_overall.csv).
 Look for AUROC scores close to 1.0 indicating strong detection.
 
 ## Study Design
