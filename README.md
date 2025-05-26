@@ -96,7 +96,7 @@ If you build upon this work, please cite it as:
 Alex Imas, Brian Jabarian. "DetectionAI: Evaluating AI-generated text detectors." 2025.
 ```
 
-Feel free to contact the author for clarification requests.
+Feel free to contact the authors for clarification requests.
 
 alex.imas@chicagobooth.edu
 brian.jabarian@chicagobooth.edu
