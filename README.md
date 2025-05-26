@@ -65,19 +65,20 @@ well.
    before running cells that call external services.
 
 ## AI Policy Compliance
-This project follows the **Scientific Policy on AI Use & Reproducibility in Economics**.
+This project follows the **Scientific Policy on AI Use & Reproducibility in Economics (Jabarian, 2025)**.
 Key points include:
 1. **AI-Use Disclosure** – We evaluate several detectors:
-   - **Pengram** (open-source) for headline analyses.
-   - **GPTZero** (closed-source API) as a robustness check.
-   - **Originality** and **roberta-base-detector** for comparison.
-2. **Model Choice** – Open-source models are preferred and used whenever possible; closed-source APIs appear only as secondary checks.
-3. **Reproducibility Package** – All notebooks, prompts and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
-4. **Training-Data Separation** – Evaluation texts post-date the stated training cut-off for each model. We do not upload any confidential data to third-party services.
+   - **Pengram**
+   - **GPTZero**
+   - **Originality**
+   - **roberta-base-detector**
+2. **Model Choice**—Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
+3. **Reproducibility Package** – All notebooks, prompts, and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
+4. **Training-Data Separation** – We do not upload any confidential data to third-party services.
 5. **Chain-of-Thought Transparency** – Reasoning traces saved by the notebooks include one quantitative quality metric.
 6. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
 7. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
-8. **Reviewer Checklist** – The repository contains sufficient material to satisfy the policy's reproducibility checklist.
+8. **Reviewer Checklist** – The repository contains, to the best of our knowledge, sufficient material to satisfy the policy's reproducibility checklist.
 
 
 ## Contributors
@@ -96,3 +97,8 @@ Alex Imas, Brian Jabarian. "DetectionAI: Evaluating AI-generated text detectors.
 ```
 
 Feel free to contact the author for clarification or collaboration requests.
+
+## References
+
+Brian Jabarian, 2025, Scientific Policy on AI Use & Reproducibility in Economics, work-in-progress
+
