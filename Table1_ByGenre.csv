@@ -1,0 +1,25 @@
+,genre,detector,AUROC,Δ-Mean,n_ai,n_human
+0,amazon review,pengram,1.0,0.9836,200,200
+1,blog,originality,1.0,0.9928,139,142
+2,blog,pengram,1.0,0.9932,200,200
+3,resume,originality,1.0,0.9994,200,200
+4,novel,originality,1.0,0.9995,996,999
+5,novel,pengram,1.0,1.0,999,1000
+6,news,pengram,1.0,0.9959,300,300
+7,news,originality,1.0,0.9935,291,292
+8,restaurant review,originality,1.0,0.9803,138,140
+9,resume,pengram,1.0,1.0,200,200
+10,amazon review,originality,0.9999,0.988,130,133
+11,restaurant review,pengram,0.9999,0.936,200,200
+12,novel,gptzero,0.9985,0.997,990,987
+13,resume,gptzero,0.9975,0.995,200,199
+14,news,gptzero,0.9967,0.9933,300,298
+15,blog,gptzero,0.9849,0.9698,199,199
+16,amazon review,gptzero,0.9799,0.9597,198,200
+17,restaurant review,gptzero,0.9799,0.9598,200,198
+18,amazon review,roberta-base-detector,0.5584,0.043,200,200
+19,restaurant review,roberta-base-detector,0.5205,0.0619,200,200
+20,resume,roberta-base-detector,0.4741,-0.0262,200,200
+21,blog,roberta-base-detector,0.4068,-0.0878,200,200
+22,news,roberta-base-detector,0.197,-0.4774,300,300
+23,novel,roberta-base-detector,0.1277,-0.5587,1000,1000

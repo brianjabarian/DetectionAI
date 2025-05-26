@@ -1,0 +1,49 @@
+,Genre,Detector,Metric,Value,CI Lower,CI Upper,True Positives,False Positives,Total Detected as AI,False Negatives,Total AI
+0,amazon review,gptzero,Precision,,,,0,0.0,0.0,,
+1,amazon review,gptzero,Recall,0.0,0.0,0.019032060326648184,0,,,198.0,198.0
+2,amazon review,originality,Precision,1.0,0.9712984388055687,1.0000000000000002,130,0.0,130.0,,
+3,amazon review,originality,Recall,1.0,0.9712984388055687,1.0000000000000002,130,,,0.0,130.0
+4,amazon review,pengram,Precision,0.9950248756218906,0.9723617968398507,0.9991212278645991,200,1.0,201.0,,
+5,amazon review,pengram,Recall,1.0,0.9811546736227333,1.0,200,,,0.0,200.0
+6,amazon review,roberta-base-detector,Precision,1.0,0.20654931437723742,1.0,1,0.0,1.0,,
+7,amazon review,roberta-base-detector,Recall,0.005,0.0008831687156009805,0.02777370439789293,1,,,199.0,200.0
+8,blog,gptzero,Precision,,,,0,0.0,0.0,,
+9,blog,gptzero,Recall,0.0,0.0,0.018938233056634942,0,,,199.0,199.0
+10,blog,originality,Precision,1.0,0.972917235534427,1.0000000000000002,138,0.0,138.0,,
+11,blog,originality,Recall,0.9928057553956835,0.960376390202378,0.9987289082948406,138,,,1.0,139.0
+12,blog,pengram,Precision,1.0,0.9811546736227333,1.0,200,0.0,200.0,,
+13,blog,pengram,Recall,1.0,0.9811546736227333,1.0,200,,,0.0,200.0
+14,blog,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+15,blog,roberta-base-detector,Recall,0.0,1.7020320458977177e-18,0.018845326377266575,0,,,200.0,200.0
+16,news,gptzero,Precision,,,,0,0.0,0.0,,
+17,news,gptzero,Recall,0.0,8.563957084937438e-19,0.012642971224546036,0,,,300.0,300.0
+18,news,originality,Precision,1.0,0.9869711036023928,0.9999999999999998,291,0.0,291.0,,
+19,news,originality,Recall,1.0,0.9869711036023928,0.9999999999999998,291,,,0.0,291.0
+20,news,pengram,Precision,0.9966777408637874,0.9814244165498065,0.9994132987554136,300,1.0,301.0,,
+21,news,pengram,Recall,1.0,0.9873570287754537,0.9999999999999998,300,,,0.0,300.0
+22,news,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+23,news,roberta-base-detector,Recall,0.0,8.563957084937438e-19,0.012642971224546036,0,,,300.0,300.0
+24,novel,gptzero,Precision,,,,0,0.0,0.0,,
+25,novel,gptzero,Recall,0.0,0.0,0.003865263203300507,0,,,990.0,990.0
+26,novel,originality,Precision,1.0,0.9961579320533225,0.9999999999999998,996,0.0,996.0,,
+27,novel,originality,Recall,1.0,0.9961579320533225,0.9999999999999998,996,,,0.0,996.0
+28,novel,pengram,Precision,1.0,0.9961694255987266,0.9999999999999998,999,0.0,999.0,,
+29,novel,pengram,Recall,1.0,0.9961694255987266,0.9999999999999998,999,,,0.0,999.0
+30,novel,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+31,novel,roberta-base-detector,Recall,0.0,2.1601063852437764e-19,0.003826758485555124,0,,,1000.0,1000.0
+32,restaurant review,gptzero,Precision,,,,0,0.0,0.0,,
+33,restaurant review,gptzero,Recall,0.0,1.7020320458977177e-18,0.018845326377266575,0,,,200.0,200.0
+34,restaurant review,originality,Precision,1.0,0.972917235534427,1.0000000000000002,138,0.0,138.0,,
+35,restaurant review,originality,Recall,1.0,0.972917235534427,1.0000000000000002,138,,,0.0,138.0
+36,restaurant review,pengram,Precision,1.0,0.9809679396733518,1.0,198,0.0,198.0,,
+37,restaurant review,pengram,Recall,0.99,0.9642782382838231,0.9972533418664554,198,,,2.0,200.0
+38,restaurant review,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+39,restaurant review,roberta-base-detector,Recall,0.0,1.7020320458977177e-18,0.018845326377266575,0,,,200.0,200.0
+40,resume,gptzero,Precision,,,,0,0.0,0.0,,
+41,resume,gptzero,Recall,0.0,1.7020320458977177e-18,0.018845326377266575,0,,,200.0,200.0
+42,resume,originality,Precision,1.0,0.9811546736227333,1.0,200,0.0,200.0,,
+43,resume,originality,Recall,1.0,0.9811546736227333,1.0,200,,,0.0,200.0
+44,resume,pengram,Precision,1.0,0.9811546736227333,1.0,200,0.0,200.0,,
+45,resume,pengram,Recall,1.0,0.9811546736227333,1.0,200,,,0.0,200.0
+46,resume,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+47,resume,roberta-base-detector,Recall,0.0,1.7020320458977177e-18,0.018845326377266575,0,,,200.0,200.0
