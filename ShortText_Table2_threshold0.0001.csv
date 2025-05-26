@@ -1,0 +1,29 @@
+,Genre,Detector,Metric,Value,CI Lower,CI Upper,True Positives,False Positives,Total Detected as AI,False Negatives,Total AI
+0,amazon review,gptzero,Precision,,,,0,0.0,0.0,,
+1,amazon review,gptzero,Recall,0.0,0.0,0.05500255701354129,0,,,66.0,66.0
+2,amazon review,originality,Precision,,,,0,0.0,0.0,,
+3,amazon review,originality,Recall,,,,0,,,0.0,0.0
+4,amazon review,pengram,Precision,0.9852941176470589,0.9212902687183915,0.9973993164238933,67,1.0,68.0,,
+5,amazon review,pengram,Recall,1.0,0.9457738606086981,0.9999999999999998,67,,,0.0,67.0
+6,amazon review,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+7,amazon review,roberta-base-detector,Recall,0.0,0.0,0.05422613939130178,0,,,67.0,67.0
+8,blog,gptzero,Precision,,,,0,0.0,0.0,,
+9,blog,gptzero,Recall,0.0,0.0,0.062117855787202914,0,,,58.0,58.0
+10,blog,pengram,Precision,1.0,0.9378821442127971,1.0,58,0.0,58.0,,
+11,blog,pengram,Recall,1.0,0.9378821442127971,1.0,58,,,0.0,58.0
+12,blog,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+13,blog,roberta-base-detector,Recall,0.0,0.0,0.062117855787202914,0,,,58.0,58.0
+14,news,gptzero,Precision,,,,0,0.0,0.0,,
+15,news,gptzero,Recall,0.0,0.0,0.32440756488388023,0,,,8.0,8.0
+16,news,pengram,Precision,0.8888888888888888,0.5650002944233439,0.980109112361455,8,1.0,9.0,,
+17,news,pengram,Recall,1.0,0.6755924351161198,1.0,8,,,0.0,8.0
+18,news,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+19,news,roberta-base-detector,Recall,0.0,0.0,0.32440756488388023,0,,,8.0,8.0
+20,restaurant review,gptzero,Precision,,,,0,0.0,0.0,,
+21,restaurant review,gptzero,Recall,0.0,0.0,0.06017185214208986,0,,,60.0,60.0
+22,restaurant review,originality,Precision,,,,0,0.0,0.0,,
+23,restaurant review,originality,Recall,,,,0,,,0.0,0.0
+24,restaurant review,pengram,Precision,1.0,0.9378821442127971,1.0,58,0.0,58.0,,
+25,restaurant review,pengram,Recall,0.9666666666666667,0.886362257256914,0.990810680743802,58,,,2.0,60.0
+26,restaurant review,roberta-base-detector,Precision,,,,0,0.0,0.0,,
+27,restaurant review,roberta-base-detector,Recall,0.0,0.0,0.06017185214208986,0,,,60.0,60.0

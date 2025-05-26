@@ -1,0 +1,15 @@
+,genre,detector,AUROC,Δ-Mean,n_ai,n_human
+0,blog,pengram,1.0,0.9764,58,58
+1,amazon review,pengram,0.9996,0.9515,67,67
+2,restaurant review,pengram,0.9989,0.7876,60,60
+3,news,pengram,0.9844,0.8669,8,8
+4,blog,gptzero,0.9826,0.9652,58,57
+5,amazon review,gptzero,0.9774,0.9548,66,67
+6,restaurant review,gptzero,0.95,0.9,60,60
+7,news,gptzero,0.9375,0.875,8,8
+8,restaurant review,roberta-base-detector,0.6478,0.1717,60,60
+9,amazon review,roberta-base-detector,0.6253,0.16,67,67
+10,blog,roberta-base-detector,0.5036,0.02,58,58
+11,news,roberta-base-detector,0.4688,-0.0043,8,8
+12,amazon review,originality,,,0,1
+13,restaurant review,originality,,,0,4
