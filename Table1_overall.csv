@@ -1,0 +1,5 @@
+,detector,AUROC,Δ-Mean
+0,originality,1.0,0.9959
+1,pengram,1.0,0.9911
+2,gptzero,0.9933,0.9866
+3,roberta-base-detector,0.2745,-0.3351
