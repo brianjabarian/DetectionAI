@@ -15,6 +15,7 @@ DetectionAI investigates how reliably we can identify AI-generated writing. The 
 - [AI Policy Compliance](#ai-policy-compliance)
 - [License](#license)
 - [Citation](#citation)
+- [References](#references)
 
 ## Repository Contents
 - `notebooks/` – Jupyter notebooks for running the detection experiments.
