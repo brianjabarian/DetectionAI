@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# Local data and credentials
+# Add your local dataset paths here
+# For example:
+# data/
+# credentials.json
