@@ -64,6 +64,10 @@ well.
 3. Set any required API keys (e.g. `OPENAI_API_KEY`) as environment variables
    before running cells that call external services.
 
+## Contributors
+1. Co-authors: Alex Imas, Brian Jabarian
+2. RAs: Eda Congedez, Ziyue Fenge, Zlata Krasic
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
