@@ -12,6 +12,7 @@ DetectionAI investigates how reliably we can identify AI-generated writing. The 
 - [Quick Start](#quick-start)
 - [Study Design](#study-design)
 - [Usage](#usage)
+- [AI Policy Compliance](#ai-policy-compliance)
 - [License](#license)
 - [Citation](#citation)
 
@@ -62,6 +63,22 @@ well.
    paths at the top of each notebook.
 3. Set any required API keys (e.g. `OPENAI_API_KEY`) as environment variables
    before running cells that call external services.
+
+## AI Policy Compliance
+This project follows the **Scientific Policy on AI Use & Reproducibility in Economics**.
+Key points include:
+1. **AI-Use Disclosure** – We evaluate several detectors:
+   - **Pengram** (open-source) for headline analyses.
+   - **GPTZero** (closed-source API) as a robustness check.
+   - **Originality** and **roberta-base-detector** for comparison.
+2. **Model Choice** – Open-source models are preferred and used whenever possible; closed-source APIs appear only as secondary checks.
+3. **Reproducibility Package** – All notebooks, prompts and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
+4. **Training-Data Separation** – Evaluation texts post-date the stated training cut-off for each model. We do not upload any confidential data to third-party services.
+5. **Chain-of-Thought Transparency** – Reasoning traces saved by the notebooks include one quantitative quality metric.
+6. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
+7. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
+8. **Reviewer Checklist** – The repository contains sufficient material to satisfy the policy's reproducibility checklist.
+
 
 ## Contributors
 1. Co-authors: Alex Imas, Brian Jabarian
