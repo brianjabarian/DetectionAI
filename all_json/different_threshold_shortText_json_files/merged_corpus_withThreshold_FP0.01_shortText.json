@@ -1,0 +1,4248 @@
+[
+  {
+    "topic": "Opinions on the term \"midgets",
+    "text": "Thought- OK...so, I'm all for midgets and whatnot. I'm not all, \"down with midgets,\" but really, don't you think it'd be rude to say, \"Up with midgets?\"  ~Ya di amore~",
+    "year": "18,November,2002",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "The term \"midgets\" is widely considered pejorative and outdated, with \"dwarf\" or \"short stature\" being preferred language when referring to individuals with such medical conditions."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Comparison between a smiley face and Alex's nose.",
+    "text": ":o) Hey...it looks like Alex. You know, the nose taking up the whole face kind of thing!! Except the smiley is MUCH cuter!",
+    "year": "18,December,2002",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "A smiley face radiates joy universally, while Alex's nose, unique in its own right, lacks such broad symbolic power but is charmingly distinctive."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Best Fish Sandwich in Pittsburgh.",
+    "text": "Can't miss stop for the best Fish Sandwich in Pittsburgh.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Pittsburgh's Primanti Bros serves an iconic, mouthwatering fish sandwich."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Traditional \"mom 'n pop\" quality fish and chips and fried shrimp.",
+    "text": "Old school.....traditional \\\"mom 'n pop\\\" quality and perfection. The best fish and chips you'll ever enjoy and equally superb fried shrimp. A great out of the way, non-corporate, vestige of Americana. You will love it.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Nestled in the heart of town, the family-owned gem serves up the crispiest, golden fish and chips, alongside succulent fried shrimp, each bite whisking you back to simple, yet perfectly crafted, comfort food."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Tasty fish sandwich.",
+    "text": "Good fish sandwich.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Succulent cod delight."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Understaffed service delays, but excellent Reuben sandwich.",
+    "text": "Good beer selection. Understaffed for a light Monday night crowd, it wasn't her fault she was the only server. But it took about an hour to get our sandwiches. Mine was one of the best reubens I've ever had.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Despite the longer wait due to the understaffed team, the Reuben sandwich, with its perfect blend of corned beef, sauerkraut, swiss cheese, and Russian dressing on rye, was worth the patience—a savory masterpiece in every bite."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor customer service and overcharging for substitutions.",
+    "text": "Very disappointed in the customer service. We ordered Reuben's  and wanted coleslaw instead of kraut. They charged us $3.00 for the coleslaw. We will not be back . The iced tea is also terrible tasting.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Poor customer service often leaves a bitter taste, but when businesses add steep fees for simple substitutions, it exacerbates frustration, diminishing the value and trust in the brand."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience with tire preordering and installation at a slow and overpriced service center.",
+    "text": "Terrible. Preordered my tires and when I arrived they couldn't find the order anywhere. Once we got through that process I waited over 2 hours for them to be put on... I was originally told it would take 30 mins. Slow, over priced, I'll go elsewhere next time.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "I preordered tires, expecting convenience and efficiency. Instead, I faced endless waits at the overbooked service center, only to be met with hefty prices that didn't match the sluggish service. The whole ordeal proved more draining than any worn tread could ever be."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "The impact of climate change on coral reefs.",
+    "text": "Hoofah.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Climate change"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive experience with King's, consistent quality across locations.",
+    "text": "I heart King's. I've always been a fan and this one was as good as my old one in Monaca.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "No matter which King's I visit, I'm always greeted with top-notch service and reliably delicious meals. A true gem!"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Average store with inexperienced young associates.",
+    "text": "Average run of the mill store.  Associates are young teens and they really don't know where anything is.  Luckily I am able to get around to find everything.  Found my puppy treats and moved on.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The shop bustled with youthful energy, yet the novice staff's hesitance was palpable, often leaving customers to navigate the aisles of this average retailer with more questions than answers."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Gab 'n' Eat: A beloved, affordable diner with delicious breakfast options.",
+    "text": "Cheap, unpretentious, and, for this, one of my favorite breakfast joints in the country.  Simply put I LOVE it here.  The mixed grill, the sausage and egg on a biscuit, the home fries.  This it the very definition of diner.  Thank you Gab 'n' Eat!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Tucked away in the heart of town, Gab 'n' Eat serves up mouthwatering breakfasts that won't break the bank. This cozy diner, with its friendly chatter and aromatic coffee, is a haven for early birds craving fluffy pancakes and hearty omelets."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive reviews for a popular restaurant with long wait times.",
+    "text": "Love this place.  Never had a bad meal.  Good portions and great people.  Be ready to stand in line.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Despite the wait, the exquisite flavors and stellar service at Bella's Bistro continue to garner glowing accolades from patrons."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Popular breakfast spot with friendly service, interesting coffee mugs, and great desserts, but be prepared to wait in line and bring cash as they don't",
+    "text": "Great breakfast, good price. You might have to stand outside in line though, so I don't really recommend winter time to go. lol. Very friendly service, interesting coffee mugs. They have great deserts and such also. Bring your cash though as they dont' take cards.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "At Sunrise Café, the aroma of fresh coffee lures you in, but it's the quirky mugs and sumptuous desserts that keep you seated. The staff greets each customer with a smile, yet patience is key—there's often a queue, and remember, it's cash-only here."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Consistent and welcoming local eatery with frequent visits.",
+    "text": "Great little place. Treats you like a local.Eaten here 3 times a week for a month.  Same overtime. Barb is always here.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Our quaint diner thrives on regulars who cherish the homey vibe and reliably delicious comfort food, fostering a warm community hub."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Tonya and helpful front desk staff.",
+    "text": "Tonya is super sweet and the front desk people are very helpful",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Tonya appreciated the front desk staff's guidance during her hotel stay."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Review of Long John Silver's fried food.",
+    "text": "Are you are really looking at the review for LJS?  Its fried stuff, with extra fried stuff in a cardboard boat.  You will regret eating it 30 minutes after you finish, but it is delicious.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Long John Silver's batter-dipped delights offer a satisfying crunch, enveloping tender seafood and chicken. However, the greasiness can be overpowering, making moderation key to enjoying their quintessentially fast-food take on ocean fare."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience with a specific place to eat.",
+    "text": "Take it from me; avoid this place at all cost.  The only time I go is when I am starved and don't have the energy to cook or get edible food.  And then after I have been kicking myself.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "I once dined at a local seafood joint where the shrimp tasted alarmingly bland, the service was disinterested, and the ambiance felt as dreary as a forgotten harbor on a stormy day. It was an utterly disappointing experience."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor imitation of Chinese food in America.",
+    "text": "Far away from real Chinese food. Doesn't even taste good as American style Chinese food.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Americanized Chinese cuisine often lacks the authenticity and nuanced flavors of its traditional culinary roots."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Consistently great food with entertaining cook.",
+    "text": "This location never disappoints!! Food is always consistently great, and if you come at the right time, (witching hours) you may see the cook singing and dancing along with the music in the back. And it is awesome! ! Love this place!!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "At the bustling corner bistro, the chef's flair matches the zest of his dishes. Every plate is a masterpiece, bursting with flavor, while his jovial banter keeps the guests enthralled. It's a culinary show where the food is as delightful as the performance."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Unprofessional behavior at gym, difficult to contact owner.",
+    "text": "If you like being greeted in the morning by a gym worker slopping down eggs from a frying pany instead of working....this is your gym....complain to the manager and she gets nasty....try getting in touch with the owner....impossible!  Most unprofessional gym ever!!!!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Despite multiple attempts, reaching the gym owner to address the rampant unprofessionalism displayed by staff members has proven futile. Their lack of response only exacerbates the discomfort caused by the inappropriate conduct occurring within the facility's walls."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor dining experience due to terrible service and staff mismanagement.",
+    "text": "Terrible service.  Food unremarkable.  Waiter disappeared for 45 minutes to serve larger group due to staffing mismanagement.  Saved his tip by discounting meal after I complained.  All and all, a very crude and unpleasant dining experience for me and my guests.  Not to be repeated, never again!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Our evening out was marred by a series of service fumbles. Waitstaff zoomed by with nary an acknowledgment, leaving us parched and peering over empty plates. Managers seemed absent, as chaos reigned. What should have been a delightful meal turned into a forgettable ordeal."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Delicious white pizza and Roman Style calamari from a lively bar.",
+    "text": "Yay, I'm a fan of the white pizza.  Had take out.  \\n\\nThe bar was jumping when I picked up our order.\\n\\nThe white pizza is so delicious...with garlic, spinach, feta, and added some veggies.  Tried the Roman Style calamari, very good better than the fried calamari we had last time.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The bar buzzed with energy as plates of white pizza, topped with a heavenly blend of mozzarella, ricotta, and garlic, mingled with the aroma of Roman-style calamari, lightly battered and fried to perfection. Laughter and chatter filled the air, punctuated by the satisfying crunch and savory bites."
+    },
+    "human_verdict": {
+      "originality": 0,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Fantastic Italian food with generous portions and delicious desserts at a great price.",
+    "text": "Great little gem! The food was fantastic was very food and just the right price. The Italian food was amazing, but you can not leave without a dessert and be prepared for giant serving. I had the carrot cake yummy!! Def a place everyone should try.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Indulge in a culinary journey through Italy with mouth-watering dishes that delight the senses. Savor the robust flavors of perfectly cooked pasta, fresh seafood, and aromatic sauces, all served in hearty portions. Cap off your meal with divine desserts, all at unbeatable prices."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor service, high prices, lack of acknowledgment, no sides with main dishes.",
+    "text": "Service in this place is poor because of lack of acknowledgment since people working there are \\\"just\\\" working . They have nice decor,nice bar and good bread. Consider where this place is ,the prices are really really high . Nothing is served on the side with main dishes ....",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Dining out can be a letdown when met with apathy from staff, inflated costs, and the absence of complimentary sides. This combination sours the experience, leaving customers feeling undervalued and overcharged, with their meals appearing incomplete on the plate before them."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience at a restaurant.",
+    "text": "Terrible service...terrible food...this place smells like rotten wet wood",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Waited hours for food that arrived cold and tasteless."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Papa J's: Expensive and inconsistent dining option in Carnegie.",
+    "text": "Papa J's is expensive and inconsistent.  The ambiance is nice but it doesn't justify the prices.  There are better restaurants in Carnegie.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Papa J's, while offering a unique menu, often disappoints with its high prices and unpredictable quality of dishes and service."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive review of a restaurant.",
+    "text": "I love this place! The food is always so fresh and delicious. The staff is always friendly, as well.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The ambiance was enchanting, service impeccable, and each dish burst with flavor—a truly unforgettable dining experience!"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Restaurant review: Mixed ratings on food and service, with small portions and high prices. Arrive early on Saturday nights.",
+    "text": "spinach/feta cheese salad:  B-\\npesto alfredo penne :  :A+\\nCoconut Cake huge piece:  A+\\nbread small portions:  B\\nService B \\nhost seemed grumpy, waitress good, but then she got busy .\\nPRICE: Pasta was $15 and the portion smallish more like a $12.99 dish \\nARRIVE EARLY ON SATURDAY NIGHT THIS PLACE PACKED after 6pm",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The bistro's ambiance charmed, yet reviews were a mixed bag: culinary creations tantalized the palate but lacked generosity in size, and service, while polite, was hit-or-miss. Wallets felt the pinch of upscale pricing. Pro tip: Saturday evenings demand an early arrival to avoid the bustling crowd."
+    },
+    "human_verdict": {
+      "originality": 0,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Highly recommended restaurant with delicious bread, salads, and soups.",
+    "text": "Some of the best chow around--love this place. The bread and salads and soups are great.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "\"Indulge in our top-rated eatery, where the bread is fresh, salads crisp, and soups heartwarmingly savory.\""
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience with Emmert Dental.",
+    "text": "I've decided where I stand with Emmert Dental. They are unprofessional, rude and have no clue what they're doing (behind the desk). I will not be going back nor will I have nice things to say about them.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "I once visited Emmert Dental, expecting top-notch service, but was met with long waits, an impersonal touch, and results that left me less than satisfied. It was disheartening, considering the glowing reviews I had read beforehand."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience at a dental office.",
+    "text": "The worst dental office I ever been. No one can beat it!!! You should avoid it at any time.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The drill's whine, uncaring hands, and a cold dismissal soured my trust, leaving me anxious and reluctant to return."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Self-reflection on being petty and selfish, embracing laughter.",
+    "text": "Sorry I sounded petty, and dumb and selfish.  I said haha a lot in that. Wow, it's good to laugh more. Hahahahahahahahahahahahaahahahahahahahahaha.  No seriously, am I always this loony?",
+    "year": "12,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Realizing my pettiness, I chuckled at my folly. Laughter became my bridge from selfishness to kindness, a joyful path to becoming more considerate and connected with others."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive mood after talking to Christopher for 2 hours.",
+    "text": "Wow, I am in such a better mood. I just talked to Christopher for like...2 hours. Man, I love that kid haha. He put me in the best mood. He's like my brother. It rocks like no other! :)  Goodnight you princes and princesses!  XOXO",
+    "year": "22,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "The conversation with Christopher was like a balm for the soul. His laughter was infectious, his insights uplifting. After two hours, I felt a lightness in my heart, a positive energy that carried me through the rest of the day with a smile."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Increasingly sad entries: honesty or genuine sadness?",
+    "text": "I just noticed...my entries have been getting more frequently sad. Because I've been more sad, or because I've actually been being honest with myself for once and admitting I'm upset?",
+    "year": "21,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "When journals brim with sorrow, they may reflect either a candid unburdening of the soul or a deepening well of genuine sadness seeking solace through words."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Longing for Disney World.",
+    "text": "We go on...through the joy and through the tears. We go on...to discover new frontiers.....  I miss Disney Word so so much :(   I bet I'd be happy if I were there right now.",
+    "year": "21,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Dreams of magical parades, fairytale castles, and thrilling rides fill my thoughts, a vivid tapestry of Disney World's enchantment, calling to my heart with the promise of wonder and boundless joy."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Excited about finishing homework and going to bed.",
+    "text": "Off to bed! Haha, I finally finished my homework! YES! Sleepytime again for me! YaY!  I just wish there wasn't school tomorrow. :(  Goodnight you princes and princesses! :) I love the world!   XOXO",
+    "year": "21,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "The prospect of completing my homework fills me with relief; soon, I'll tuck myself into bed, embracing the soft whispers of sleep after a productive day. The thought alone is like a lullaby."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Long page horizontally due to title.",
+    "text": "OK, so it wasn't the title that was making the page long horizontally. 'Eh, I don't know. I can't be bothered to mess with it.",
+    "year": "20,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "When a document's title is too wide, it necessitates a horizontal layout, extending the page to accommodate the lengthy heading."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Issue with server overload preventing entry submission.",
+    "text": "Still can't get to it. the servers are too busy. I can sign in and stuff, but I can't put an entry in. Poo.",
+    "year": "30,April,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Due to server overcapacity, new entries cannot currently be accepted. We apologize for the inconvenience and are working to resolve the issue promptly."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Discomfort eating in front of others",
+    "text": "It's weird. I hate eating in front of other people. I always feel so guilty. I don't know why. I eat so much at home. I should be like, half the size of mexico.",
+    "year": "09,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Eating in the company of others can be an anxiety-ridden experience for some, as the fear of judgment or scrutiny over their food choices and eating habits takes center stage."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Successfully accessing restricted websites at school.",
+    "text": "I beat the system. I'm supposed to be researching for a speech, and I couldn't get on here from the school computer at first, but I can now. YES! Ahahaha, I beat the system. I'm typing in here, and I'm not supposed to be during school. I'm a rebel!!!",
+    "year": "08,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Navigating school internet restrictions requires caution and respect for policies. Smart tactics—like using a secure VPN or educational proxy—can open up a world of knowledge while maintaining digital safety. Remember, ethical use ensures resources are used for learning and not for circumventing important educational guidelines."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Frustration with deleted blog entry.",
+    "text": "Well, since blogger is DUMB, my entry for today got deleted.   Stupid blogger.  Oh well, I really don't feel like typing it again so, I wont.  Maybe I'll write more later.  Bye.",
+    "year": "07,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Discovering my painstakingly crafted blog entry had vanished into the digital void was like watching hours of effort dissolve into nothingness, leaving a bitter taste of loss and exasperation."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Self-awareness of negative self-perceptions.",
+    "text": "I'm not intelligent I'm not pretty I'm not funny I'm not a slut I don't like most people I'm not nice I'm too loud but too quiet I'm too untrusting I'm selfish  Please, if you think of anymore...let me know.",
+    "year": "06,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Recognizing our own harsh self-critiques is crucial for growth. When we observe these negative self-perceptions, we open the door to self-compassion and the opportunity to challenge and transform them into a more positive, empowering self-image."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Feeling down for unknown reasons",
+    "text": "OK, Chris isn't mad at me, but...I'm still sort of down. I don't know why. I truly don't. I'm sure there's some reason deep down inside and I just don't realize it, but...ARGH! It's super annoying.",
+    "year": "17,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Sometimes, a melancholic haze descends without warning or reason, leaving us adrift in a sea of inexplicable sadness. It's in these moments that embracing self-care and reaching out for support become invaluable lifelines."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Chris is mad at me for being short with him due to bad mood.",
+    "text": "Dag nabbit. I think Chris is mad at me now because I'm an idiot and was short with him last night because I was in a bad mood. I wasn't mad at him, just...maf in general. Argh, oh well.",
+    "year": "16,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Chris's frustration with me is understandable; my curt responses, fueled by a sour mood, were unfair. His irritation is a reminder that my emotions should not dictate the tone of our interactions."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Seeking companionship and comfort through phone calls.",
+    "text": "Talked to Kathryn on the phone for a bit. I needed it. I'm glad she was home. :)  I think I'm going to call someone. I don't want to be alone tonight.",
+    "year": "16,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "In the quiet of the night, voices over the phone weave a tapestry of connection, as hearts reach out to find solace and warmth in each other's spoken words."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive outlook after shower.",
+    "text": "I just took a shower. I love showers. They always make me feel so good.    Today is going to be a good day!! No matter what!",
+    "year": "16,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Freshly cleansed, the world seems to sparkle anew, my spirits rejuvenated with the water's touch, ready to embrace the day's potential with renewed vigor."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Diane and Joanne are amazing at cheering people up.",
+    "text": "You know....Diane really is an amazing person. She's terrific at cheering me up. So is Joanne. And that's all I've got to say about that.",
+    "year": "16,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Diane and Joanne possess an infectious zest for life that brightens any room, their warm smiles and encouraging words lift spirits effortlessly."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Appreciation for a supportive friend.",
+    "text": "??????? - (1:31:56 AM): hell your like the best person i know  One of those people is doing a darn good job of cheering me up. Thank you.",
+    "year": "16,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "A supportive friend is a beacon in the fog, a gentle guide through life's trials, and a treasure worth more than gold, deserving heartfelt thanks and recognition."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Appreciation for Ryan Dewitt",
+    "text": "You know who the coolest person in the world is? Someone who's so special they deserve an award? Ryan. Ryan Dewitt. Thanks Ryan. I love you!",
+    "year": "16,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Ryan Dewitt's dedication and expertise shine brightly, earning him heartfelt gratitude from peers and mentees alike for his unwavering support and inspiring guidance."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Relieved to find out Peter doesn't hate me.",
+    "text": "Oh yeah, I found out Peter doesn't hate me like no other. I'm glad. I don't like thinking that people hate me. Not a good feeling.",
+    "year": "13,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "When Peter smiled and struck up a casual chat, my heart soared, washing away the fear of animosity I had harbored for weeks."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Authenticity over approval-seeking.",
+    "text": "You know what. Screw it. It's not worth it. People should like me for me. Not because I work at getting them to like me.",
+    "year": "24,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Choosing to be authentic is embracing your true self, not a persona shaped by others' expectations or the pursuit of validation."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Need for One Person to Care in a Cruel World",
+    "text": "A friend of mine has this on her profile. \"Sometimes, all you need is one person to care and the world wont seem so cruel.\"   I just really wish I had that one person.",
+    "year": "22,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "In a world often shadowed by cruelty, the compassion of one person can be a beacon of hope, igniting kindness and empathy in others, and proving that humanity still holds a gentle heart."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Busy day leads to exhaustion and postponing writing.",
+    "text": "Well, I had a pretty busy day. Lots to write about, but I'm just so exhausted I can't right now. I Will write about it tomorrow. Wow, lots of, \"writes\" and, \"rights\" Wheee. Yeah ok, I'm too tired. Byebye.",
+    "year": "21,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "After a whirlwind day packed with tasks, fatigue creeps in, sapping creativity. The pen feels heavy, ideas blur, and the once-urgent desire to write dims, leading to the inevitable decision to push the craft until tomorrow."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Taking a bet to be quiet for a whole day of school.",
+    "text": "Oooo, someone bet me that I couldn't be quiet for a whole day of school. I'm definitely taking the challenge. Definitely. Ahahahaha. It will be most excellent. Seriously. The only trouble with be explaining this to people.",
+    "year": "19,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Challenged by peers, Jamie accepted the dare to embrace silence for an entire school day, turning nods and gestures into his sole communicative tools, and discovering the loud potency of quietude amidst the clamor of classrooms."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Pretending to be okay despite pain and struggles.",
+    "text": "I'm going to smile like nothing's wrong, talk like everything's perfect, act like it's just a dream, and pretend its not hurting me...because one day it won't and everything will be ok.",
+    "year": "19,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Smiling through the storm, she wore resilience like armor, silently battling demons that danced behind the facade of her unwavering grin, a quiet warrior in the fight against unseen anguish."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Trustworthiness and connection with Christy.",
+    "text": "Talking to Christy right now. It's actually really awesome. I miss her. I can trust her so much it's unbelievable. She's probably the single most trustworthy person to ever be in my life other than my mom.",
+    "year": "18,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Christy's steadfast honesty and open heart have forged strong bonds with those around her. Her trustworthiness is the bedrock of many cherished relationships, reflecting her deep integrity and compassionate nature."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Maha Energy's Powerex MH-C204F Charger and 2200 mAh Batteries.",
+    "text": "Check out Maha Energy's website. Their Powerex MH-C204F charger works in 100 minutes for rapid charge, with option for slower charge (better for batteries). And they have 2200 mAh batteries.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The Powerex MH-C204F charger efficiently revitalizes Maha Energy's 2200 mAh batteries, ensuring your devices stay powered longer with reliable, quick charging technology."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Limitation of vertical DVD menu navigation on certain devices.",
+    "text": "I cannot scroll through a DVD menu that is set up vertically. The triangle keys will only select horizontally. So I cannot select anything on most DVD's besides play. No special features, no language select, nothing, just play.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Some devices struggle with vertical DVD menu navigation, causing frustration when users can't smoothly move through options. This design flaw can impede access to desired content and diminish the overall viewing experience."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Recommended book for European travelers with country information and color pictures.",
+    "text": "I currently live in Europe, and this is the book I recommend for my visitors. It covers many countries, colour pictures, and is a nice starter for before you go, and once you are there.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "\"Explore Europe: A Visual Journey\" offers a treasure trove of vibrant images and essential insights, navigating you through the continent's diverse cultures, landmarks, and cuisines."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "El Duke persona linked to access to shower gimmick.",
+    "text": "If you want to listen to El Duke , then it is better if you have access to his shower,this is not him, it is a gimmick,very well orchestrated.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "El Duke, the charismatic figure, became synonymous with revolutionary shower technology, promoting a gadget that promised an unparalleled bathing experience with a touch of flair."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "External drive requires power adapter, not bus power.",
+    "text": "Was hoping that this drive would run off of bus power, but it required the adapter to actually work. :( I sent it back.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Some external hard drives need a separate power source and cannot operate solely through the power provided by a computer's USB connection."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Libro sobre historia de boxeadores brillantes y campeones durante cien años.",
+    "text": "Y ESTE LIBRO ESTÁ ESPLÉNDIDO !Lo disfrutas, lo puedes usar como obra de consultaNos trae LAS HISTORIA DE LOS BOXEADORES MÁS BRILLANTES, DE LOS CAMPEONES DURANTE CIEN AÑOS !!Si te gusta el box...¡NO TE LO PIERDAS !",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "\"En las páginas de este libro, se despliega la saga de puños y voluntades de hierro, narrando las vidas de los más destacados púgiles y campeones que han marcado el cuadrilátero a lo largo de un siglo.\""
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Review of Ryan's album with impressive fiddle playing.",
+    "text": "This is an excellent album with some great fiddle playing. Ryan is amazing to watch when he plays in person. You can feel the emotion he puts into each song.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Ryan’s album is a masterclass in fiddle artistry, weaving traditional melodies with innovative flair that captivates from the first note to the last. A true acoustic gem."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Disappointing reading experience.",
+    "text": "I've read this book with much expectation, it was very boring all through out the book",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I eagerly turned each page, but the predictable plot and flat characters left me feeling unfulfilled."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor quality gel cushions in product lead to unpleasant smell and leakage, not worth the purchase.",
+    "text": "This product smells when you open the package and it appears one of the gel cushions leaks so I spent $10 and havent worn then. I wouldnt buy this product again. Dont waste your money on something you may not be able to use.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Investing in gel cushions of subpar quality can lead to a distressing experience. The material often emits an off-putting odor and may even break down, causing leaks. This diminishes comfort and ultimately proves that such products do not justify their cost."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "High-quality content in Victoria magazine collection.",
+    "text": "The magazine was in very good condition and had the usual high standard of articles and photos that Victoria magazine has come to represent. I have collected all the previous magazines of the series and still enjoy leafing through them on a rainy day",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Victoria magazine's collection boasts an exquisite selection of articles, each piece rich with eloquent prose and lush imagery that evokes the elegance of a bygone era, catering to those who cherish timeless beauty and sophisticated lifestyles."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Satisfaction with small, light camcorder with clear LCD and ease of operation.",
+    "text": "I believe I will be very happy with the camcorder. Its small,light and easy to handle.The LCD is clear and bright.Ease of operation.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The compact camcorder impresses with its crisp LCD display and user-friendly controls, making capturing life's moments both effortless and gratifying."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Limited playtime and poor graphics in Barbie CD Roms.",
+    "text": "Like many of the Barbie CD Roms, the playtime is limited - averaging about 5 mins for each of my two daughters (ages 5 & 7). Like the Barbie movies and other CD Roms the graphics are poorly done.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The Barbie CD-ROM games often faced criticism for their brief gameplay duration and lacklustre graphics, which detracted from the immersive experience fans of the iconic doll expected from her digital adventures."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive impact of Thomas the Tank Engine DVD on children.",
+    "text": "apart from it arriving broken the first time, my kids are loving this DVD, which I alternate with the other I purchased to keep my own sanity. This DVD has created a Thomas fan out of my 3 1/2 yr. old daughter as well.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Thomas the Tank Engine DVDs have been a delightful source of entertainment and education for children, fostering early learning through engaging stories that promote positive values such as friendship, teamwork, and perseverance, while also sparking young imaginations with the adventures of Thomas and his friends."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Charged twice for out-of-stock item from Amazon vendor.",
+    "text": "Merchant was out of stock on the second pair of pants, so when it was shipped I was charged $9 again when the second pair was in stock weeks later.Will not buy from Amazon vendors again.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I purchased an item from an Amazon seller, only to discover it was out of stock. To my dismay, I was billed twice for the product that never shipped, leaving me seeking a prompt refund."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "DVD description lacks subtitles.",
+    "text": "love it...very touch.it's to bad that in the dvd description doesn't mention no subtitles",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "This DVD release disappointingly omits subtitles, hindering accessibility for hearing-impaired viewers."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Patricia Cornwell's \"Cruel & Unusual\" - Strong Start, Disappointing Ending",
+    "text": "Parricia Corwell, Cruel & Unusual was breathtaking in the beginning! Her relation to her family, her dedication to her work exeptional. However, this story began to get boring towards the end...the ending, not too great.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The opening chapters of \"Cruel & Unusual\" captivate with suspense, but as the plot progresses, the resolution feels rushed and unsatisfying, leaving a sense of missed potential in Cornwell's narrative craftsmanship."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Portable and easy-to-use grill.",
+    "text": "This grill is one of its kind...It can be use anywhere without so much hard work..it fits snugly anywhere....",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Enjoy outdoor cooking anywhere with a compact, lightweight grill that's simple to set up and perfect for travel."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Book review: Engaging plot with strong beginning and ending.",
+    "text": "This was a very good book with excellent descriptions. It's a real page turner and keeps you wondering what's going to happen next. The best parts are at the very beggining and the end.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The novel captivates from the start, weaving a narrative that holds attention until the final page. Its well-crafted conclusion satisfyingly ties together the intricate storylines, leaving readers both contented and reflective."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Book publisher's movie adaptation status.",
+    "text": "the publisher said soon to be a movie. does anyone know if a movie was ever created?",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The publisher's latest novel is currently being adapted into a film, with production slated to begin next year."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Excitement for diving into Patricia Cornwell's novels.",
+    "text": "This was only my first Cornwell novel and I'm hooked! In the past few months I have managed to collect all of her books and I can't wait to dive into them! This summer will be a suspensful one for Scarpetta and I.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Delving into Patricia Cornwell's books is akin to embarking on a thrilling forensic adventure. Each page crackles with tension, as sharp wit and meticulous detail merge, inviting readers to unravel mysteries alongside her unforgettable protagonist, Kay Scarpetta. The anticipation is palpable!"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Benefits of wearing a Squeem for posture and appetite control.",
+    "text": "I love love love the squeem!!! The before and after pictures are definitely real!!! You can immediately tell the difference when you put it on it definitely improves your posture, you eat much less since it squeezes the he'll outta you but its not an uncomfortable squeeze.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Wearing a Squeem can significantly enhance posture by providing back support and encouraging spinal alignment. Additionally, the gentle compression can act as a physical reminder to moderate food intake, thereby aiding in appetite control and promoting a more mindful approach to eating habits."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Review of Meadow Sweet lipstick: warm vanilla scent, creamy texture, nude color, avoid applying too much.",
+    "text": "It's got a nice warm scent of vanilla-like smell. Texture is creamy. Meadow Sweet is a nice nude color. Can't apply too much or else it'll look a bit dry.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Meadow Sweet's lipstick glides on with a creamy texture, offering a subtle nude shade perfect for everyday wear. Its warm vanilla aroma is delightful, though caution is advised to prevent over-application."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Kanye West's unique perspective on human nature.",
+    "text": "West is only fairly judged by the breadth of his work. He has a special view of human nature and all its weaknesses.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Kanye West views human nature as a blend of creative chaos and divine inspiration, seeking authenticity amidst society's limiting expectations."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative reaction to a lengthy and preachy prologue led to giving up on finding the actual novel.",
+    "text": "I found it preachy and long and got.very bored to claw my way through the very wordy prologue.Then tried to find the.actual novelFinally gave up!!!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Disenchanted by the sermonizing prologue, readers abandoned the search for the story's core, weary of wading through didactic dross to reach the narrative."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Book recommendation from neighbor not well-liked.",
+    "text": "this book was recommend 2 me from my neighbor. but i dont think that dis is dat gud of a book 2 recommend... i didnt like it 2 much but...",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Despite our differences, my neighbor suggested a thriller that was surprisingly gripping. It's nice when a shared love for books bridges the gap between us."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Exploring redemption and judgment in classic literature.",
+    "text": "I really enjoyed this book. It shows the judgmental tendencies in our human race and how one woman strove to live a life of service to others to gain redemption for her mistake. Can't go wrong with the classics.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Classic literature often delves into the human soul's journey from transgression to absolution, juxtaposing the weight of societal judgment against the inner workings of personal atonement and the transformative power of forgiveness."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Creepy mystery/romance book with a chilling vibe.",
+    "text": "The creepiest book I've ever read! It's a creepy mystery/romance all in one creepy book! I would read it again lol",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "In the moonlit manor, whispers of love intertwine with ghostly secrets, as hearts pulse with fear beneath the shadow of old curses."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Critique of Nathaniel Hawthorne's \"The Scarlet Letter",
+    "text": "This book has to be one of the most tedious works of literature ever written. Hawthorne is a great writer, but I don't know how this book made it into that sacred list we call \"classics\". Perhaps on the merit of his name alone?",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Nathaniel Hawthorne's \"The Scarlet Letter\" masterfully delves into themes of sin, guilt, and redemption. However, its dense symbolism and archaic language can challenge modern readers, while its portrayal of female characters through a puritanical lens may seem outdated and restrictive."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Avoid audiobook with screechy female reader.",
+    "text": "i couldn't listen to this book because the women reading it has such a screechy horrible voice so i can give no review of the actual book but whatever you do try to find a version with a different reader if you're into audio books",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "When selecting your next audiobook, consider bypassing those narrated by a voice with a high-pitched, grating tone. A screechy delivery can detract from the immersive experience, making it difficult to engage with the story and enjoy the rhythm of the prose."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Confusion over the point of a school-assigned book.",
+    "text": "I had to read this book for school. I did not like it. I'm not sure what the point is of this story; several people hae told me what they think it is but I dont agree and they dont agree with each other.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Students often grapple with deciphering the intended message of a book mandated by their curriculum, wondering how the dense prose or meandering plot relates to their own lives or the world around them, leading to a disconnect between the text and its educational goal."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Product placement jokes elevate the pace.",
+    "text": "It starts off a bit slow, but once the product placement jokes start it takes off.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "When ads cleverly pop into scenes, even a snail's storyline races with a wink and a smile."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Flimsy and leaky water bottle with difficulty separating parts, seeking alternative options.",
+    "text": "Ditto to other complaints - won't separate easily- either by unscrewing or prizing. Cheap, flimsy, leaks water also because no gasket. I'm looking for something else and hoping reviewers will give honest good advice . . . this almost identical to product by Munchkin",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Dealing with a poorly made water bottle that constantly drips can be frustrating, especially when disassembly for cleaning becomes a chore. Considering a high-quality, durable bottle with user-friendly components is a wise move for both convenience and long-term hydration needs."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Best Fish Sandwich in Pittsburgh.",
+    "text": "Can't miss stop for the best Fish Sandwich in Pittsburgh.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Pittsburgh's Primanti Bros serves an iconic, mouthwatering fish sandwich."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Traditional \"mom 'n pop\" quality fish and chips and fried shrimp.",
+    "text": "Old school.....traditional \\\"mom 'n pop\\\" quality and perfection. The best fish and chips you'll ever enjoy and equally superb fried shrimp. A great out of the way, non-corporate, vestige of Americana. You will love it.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Nestled in the heart of town, the family-owned gem serves up the crispiest, golden fish and chips, alongside succulent fried shrimp, each bite whisking you back to simple, yet perfectly crafted, comfort food."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Tasty fish sandwich.",
+    "text": "Good fish sandwich.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Succulent cod delight."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Understaffed service delays, but excellent Reuben sandwich.",
+    "text": "Good beer selection. Understaffed for a light Monday night crowd, it wasn't her fault she was the only server. But it took about an hour to get our sandwiches. Mine was one of the best reubens I've ever had.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Despite the longer wait due to the understaffed team, the Reuben sandwich, with its perfect blend of corned beef, sauerkraut, swiss cheese, and Russian dressing on rye, was worth the patience—a savory masterpiece in every bite."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor customer service and overcharging for substitutions.",
+    "text": "Very disappointed in the customer service. We ordered Reuben's  and wanted coleslaw instead of kraut. They charged us $3.00 for the coleslaw. We will not be back . The iced tea is also terrible tasting.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Poor customer service often leaves a bitter taste, but when businesses add steep fees for simple substitutions, it exacerbates frustration, diminishing the value and trust in the brand."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience with tire preordering and installation at a slow and overpriced service center.",
+    "text": "Terrible. Preordered my tires and when I arrived they couldn't find the order anywhere. Once we got through that process I waited over 2 hours for them to be put on... I was originally told it would take 30 mins. Slow, over priced, I'll go elsewhere next time.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "I preordered tires, expecting convenience and efficiency. Instead, I faced endless waits at the overbooked service center, only to be met with hefty prices that didn't match the sluggish service. The whole ordeal proved more draining than any worn tread could ever be."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "The impact of climate change on coral reefs.",
+    "text": "Hoofah.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Climate change"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive experience with King's, consistent quality across locations.",
+    "text": "I heart King's. I've always been a fan and this one was as good as my old one in Monaca.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "No matter which King's I visit, I'm always greeted with top-notch service and reliably delicious meals. A true gem!"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Average store with inexperienced young associates.",
+    "text": "Average run of the mill store.  Associates are young teens and they really don't know where anything is.  Luckily I am able to get around to find everything.  Found my puppy treats and moved on.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The shop bustled with youthful energy, yet the novice staff's hesitance was palpable, often leaving customers to navigate the aisles of this average retailer with more questions than answers."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Gab 'n' Eat: A beloved, affordable diner with delicious breakfast options.",
+    "text": "Cheap, unpretentious, and, for this, one of my favorite breakfast joints in the country.  Simply put I LOVE it here.  The mixed grill, the sausage and egg on a biscuit, the home fries.  This it the very definition of diner.  Thank you Gab 'n' Eat!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Tucked away in the heart of town, Gab 'n' Eat serves up mouthwatering breakfasts that won't break the bank. This cozy diner, with its friendly chatter and aromatic coffee, is a haven for early birds craving fluffy pancakes and hearty omelets."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive reviews for a popular restaurant with long wait times.",
+    "text": "Love this place.  Never had a bad meal.  Good portions and great people.  Be ready to stand in line.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Despite the wait, the exquisite flavors and stellar service at Bella's Bistro continue to garner glowing accolades from patrons."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Popular breakfast spot with friendly service, interesting coffee mugs, and great desserts, but be prepared to wait in line and bring cash as they don't",
+    "text": "Great breakfast, good price. You might have to stand outside in line though, so I don't really recommend winter time to go. lol. Very friendly service, interesting coffee mugs. They have great deserts and such also. Bring your cash though as they dont' take cards.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "At Sunrise Café, the aroma of fresh coffee lures you in, but it's the quirky mugs and sumptuous desserts that keep you seated. The staff greets each customer with a smile, yet patience is key—there's often a queue, and remember, it's cash-only here."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Consistent and welcoming local eatery with frequent visits.",
+    "text": "Great little place. Treats you like a local.Eaten here 3 times a week for a month.  Same overtime. Barb is always here.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Our quaint diner thrives on regulars who cherish the homey vibe and reliably delicious comfort food, fostering a warm community hub."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Tonya and helpful front desk staff.",
+    "text": "Tonya is super sweet and the front desk people are very helpful",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Tonya appreciated the front desk staff's guidance during her hotel stay."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Review of Long John Silver's fried food.",
+    "text": "Are you are really looking at the review for LJS?  Its fried stuff, with extra fried stuff in a cardboard boat.  You will regret eating it 30 minutes after you finish, but it is delicious.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Long John Silver's batter-dipped delights offer a satisfying crunch, enveloping tender seafood and chicken. However, the greasiness can be overpowering, making moderation key to enjoying their quintessentially fast-food take on ocean fare."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience with a specific place to eat.",
+    "text": "Take it from me; avoid this place at all cost.  The only time I go is when I am starved and don't have the energy to cook or get edible food.  And then after I have been kicking myself.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "I once dined at a local seafood joint where the shrimp tasted alarmingly bland, the service was disinterested, and the ambiance felt as dreary as a forgotten harbor on a stormy day. It was an utterly disappointing experience."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor imitation of Chinese food in America.",
+    "text": "Far away from real Chinese food. Doesn't even taste good as American style Chinese food.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Americanized Chinese cuisine often lacks the authenticity and nuanced flavors of its traditional culinary roots."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Consistently great food with entertaining cook.",
+    "text": "This location never disappoints!! Food is always consistently great, and if you come at the right time, (witching hours) you may see the cook singing and dancing along with the music in the back. And it is awesome! ! Love this place!!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "At the bustling corner bistro, the chef's flair matches the zest of his dishes. Every plate is a masterpiece, bursting with flavor, while his jovial banter keeps the guests enthralled. It's a culinary show where the food is as delightful as the performance."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Unprofessional behavior at gym, difficult to contact owner.",
+    "text": "If you like being greeted in the morning by a gym worker slopping down eggs from a frying pany instead of working....this is your gym....complain to the manager and she gets nasty....try getting in touch with the owner....impossible!  Most unprofessional gym ever!!!!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Despite multiple attempts, reaching the gym owner to address the rampant unprofessionalism displayed by staff members has proven futile. Their lack of response only exacerbates the discomfort caused by the inappropriate conduct occurring within the facility's walls."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor dining experience due to terrible service and staff mismanagement.",
+    "text": "Terrible service.  Food unremarkable.  Waiter disappeared for 45 minutes to serve larger group due to staffing mismanagement.  Saved his tip by discounting meal after I complained.  All and all, a very crude and unpleasant dining experience for me and my guests.  Not to be repeated, never again!",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Our evening out was marred by a series of service fumbles. Waitstaff zoomed by with nary an acknowledgment, leaving us parched and peering over empty plates. Managers seemed absent, as chaos reigned. What should have been a delightful meal turned into a forgettable ordeal."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Delicious white pizza and Roman Style calamari from a lively bar.",
+    "text": "Yay, I'm a fan of the white pizza.  Had take out.  \\n\\nThe bar was jumping when I picked up our order.\\n\\nThe white pizza is so delicious...with garlic, spinach, feta, and added some veggies.  Tried the Roman Style calamari, very good better than the fried calamari we had last time.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The bar buzzed with energy as plates of white pizza, topped with a heavenly blend of mozzarella, ricotta, and garlic, mingled with the aroma of Roman-style calamari, lightly battered and fried to perfection. Laughter and chatter filled the air, punctuated by the satisfying crunch and savory bites."
+    },
+    "human_verdict": {
+      "originality": 0,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Fantastic Italian food with generous portions and delicious desserts at a great price.",
+    "text": "Great little gem! The food was fantastic was very food and just the right price. The Italian food was amazing, but you can not leave without a dessert and be prepared for giant serving. I had the carrot cake yummy!! Def a place everyone should try.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Indulge in a culinary journey through Italy with mouth-watering dishes that delight the senses. Savor the robust flavors of perfectly cooked pasta, fresh seafood, and aromatic sauces, all served in hearty portions. Cap off your meal with divine desserts, all at unbeatable prices."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor service, high prices, lack of acknowledgment, no sides with main dishes.",
+    "text": "Service in this place is poor because of lack of acknowledgment since people working there are \\\"just\\\" working . They have nice decor,nice bar and good bread. Consider where this place is ,the prices are really really high . Nothing is served on the side with main dishes ....",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Dining out can be a letdown when met with apathy from staff, inflated costs, and the absence of complimentary sides. This combination sours the experience, leaving customers feeling undervalued and overcharged, with their meals appearing incomplete on the plate before them."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience at a restaurant.",
+    "text": "Terrible service...terrible food...this place smells like rotten wet wood",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Waited hours for food that arrived cold and tasteless."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Papa J's: Expensive and inconsistent dining option in Carnegie.",
+    "text": "Papa J's is expensive and inconsistent.  The ambiance is nice but it doesn't justify the prices.  There are better restaurants in Carnegie.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "Papa J's, while offering a unique menu, often disappoints with its high prices and unpredictable quality of dishes and service."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive review of a restaurant.",
+    "text": "I love this place! The food is always so fresh and delicious. The staff is always friendly, as well.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The ambiance was enchanting, service impeccable, and each dish burst with flavor—a truly unforgettable dining experience!"
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Restaurant review: Mixed ratings on food and service, with small portions and high prices. Arrive early on Saturday nights.",
+    "text": "spinach/feta cheese salad:  B-\\npesto alfredo penne :  :A+\\nCoconut Cake huge piece:  A+\\nbread small portions:  B\\nService B \\nhost seemed grumpy, waitress good, but then she got busy .\\nPRICE: Pasta was $15 and the portion smallish more like a $12.99 dish \\nARRIVE EARLY ON SATURDAY NIGHT THIS PLACE PACKED after 6pm",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The bistro's ambiance charmed, yet reviews were a mixed bag: culinary creations tantalized the palate but lacked generosity in size, and service, while polite, was hit-or-miss. Wallets felt the pinch of upscale pricing. Pro tip: Saturday evenings demand an early arrival to avoid the bustling crowd."
+    },
+    "human_verdict": {
+      "originality": 0,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Highly recommended restaurant with delicious bread, salads, and soups.",
+    "text": "Some of the best chow around--love this place. The bread and salads and soups are great.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "\"Indulge in our top-rated eatery, where the bread is fresh, salads crisp, and soups heartwarmingly savory.\""
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience with Emmert Dental.",
+    "text": "I've decided where I stand with Emmert Dental. They are unprofessional, rude and have no clue what they're doing (behind the desk). I will not be going back nor will I have nice things to say about them.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "I once visited Emmert Dental, expecting top-notch service, but was met with long waits, an impersonal touch, and results that left me less than satisfied. It was disheartening, considering the glowing reviews I had read beforehand."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative experience at a dental office.",
+    "text": "The worst dental office I ever been. No one can beat it!!! You should avoid it at any time.",
+    "year": "before2020",
+    "genre": "restaurant review",
+    "source": "https://huggingface.co/datasets/Yelp/yelp_review_full",
+    "ai_generated": {
+      "openai": "The drill's whine, uncaring hands, and a cold dismissal soured my trust, leaving me anxious and reluctant to return."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Review of Baby Warming Dish: Small size, not enough water. Better for infants. Consider using a blanket instead. Recommendation: Buy.",
+    "text": "We tried the Baby warming dish. We found that for our 1 year old it was pretty small, and didn't really hold enough water to keep her warm.I think it would work ok for an infant, although I think a blanket would work just as well.Recommendation:Buy********************HoldSell",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The Baby Warming Dish's compact design holds too little water for effective heat retention. While suitable for infants, a cozy blanket might be a better option for warmth. Nonetheless, for those seeking a warming dish, this product is still worth considering."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor print quality of a book.",
+    "text": "As good as this book may be, the print quality is so bad that I cannot read it. Zero stars would have been more appropriate.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The book's blurred text and smeared ink detracted from the enjoyment of reading, making the experience frustrating rather than immersive."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Generator for circuits project with loose wire connections, recommend battery powered with rechargeable batteries for environmental concerns.",
+    "text": "I used the generator for a circuits project and it works pretty well with little resistance, however the wire connections seemed cheap and very loose. I would recommend buying a battery powered one with rechargeable batteries if you're worried about the environment.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "For circuit projects exhibiting unreliable wire connections, a battery-powered generator with rechargeable batteries is advisable. This not only ensures a stable energy source but also aligns with environmental sustainability by reducing waste and conserving resources."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Feel-good holiday movie: Eight Crazy Nights",
+    "text": "A movie that makes you feel a lot better about the holidays. Although not a childish movie, Eight Crazy Nights is a fantastic Sandler movie.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "\"Eight Crazy Nights\" warms the heart with laughter and joy, showcasing the magic of Hanukkah through the eyes of a lovable, if troubled, character."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Inappropriate content in Adam Sandler movie.",
+    "text": "The movie is vulgar and not meant for children. It is a typical Adam Sandler movie, with foul language and raunchy humor. Not enjoyable at all.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Adam Sandler's films often stir debate, with some scenes criticized for crude humor that borders on offensive, challenging the boundaries of acceptable mainstream comedy."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Review of art book in excellent condition, misplaced contact information.",
+    "text": "I was so very pleased to review the art book which arrived in pristine condition. I would have rated it in Excellent condition, rather than very good. I would like to thank the person who made it possible, but have misplaced her name and address.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Discovering an art book in pristine condition was a delightful surprise, but the absence of the owner's contact details has left me unable to express my admiration for their well-kept treasure. It's a silent testimony to the profound care they extend to their collection."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Discovering Fair to Midland's music and making comparisons.",
+    "text": "...i had never heard Fair to Midland before hearing this music but cant help making comparisons. It is still wonderful music and Ill explore it further...",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Exploring Fair to Midland's sound reveals a blend akin to Tool's artistry mixed with Serj Tankian's vocal dynamism, creating a unique yet familiar auditory journey."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive review of cell phone holder quality and durability.",
+    "text": "Contrary to other review, I found my cell phone holder to be of very good quality and have used it for a long time now with no problems whatsoever.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "This cell phone holder impressively withstands daily wear and tear, maintaining a firm grip and sleek appearance. Its build quality exceeds expectations for such a compact accessory."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Favorite Christmas Movies for Holiday Decorating",
+    "text": "I LOVE Christmas movies and these are some of my favorites! I always bring them out when I am decorating and start enjoying the holidays!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "As you adorn your home with festive cheer, let classics like \"Home Alone\" and \"Elf\" provide the perfect merry backdrop for your holiday decorating."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Gifted Charlie Brown movie to co-worker who loves classics.",
+    "text": "I gave this movie to a co-worker who loves all the Charlie Brown classics that are shown on TV. She was thrilled when she opened it!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I surprised my colleague, an avid fan of timeless films, with a DVD of \"A Charlie Brown Christmas,\" knowing it would bring joy to her vintage-loving heart."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": null,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Classic Christmas tale makes a wonderful gift for friend.",
+    "text": "This is a classic Christmas tale and was a wonderful gift. I bought it for my friend and she said she will watch it every year.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Gifting a beloved Christmas story weaves magic, offering your friend a timeless escape into holiday wonder and the warmth of seasonal tradition."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Soothing impact of watching A Charlie Brown Christmas on busy holidays.",
+    "text": "Being able to watch something like A Charlie Brown Christmas whenever I want is so soothing to the soul. Especially since I get really busy around the holidays and can't always catch it on TV.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "As festive chaos swirls, 'A Charlie Brown Christmas' offers a warm respite, its gentle jazz and timeless message wrapping viewers in a blanket of yuletide serenity amidst the holiday hustle."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Watching classic Peanuts movie with family at Christmas.",
+    "text": "Watched this with my two year old daughter for the first time this Christmas. It was nice to watch a classic movie that I grew up watching as a kid myself, with her as well as with my hubby. The Peanuts gang is classic and simple. Love them!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Gathered in the living room, our family nestles under a patchwork quilt, hot cocoa in hand, as the timeless charm of a classic Peanuts movie unfolds on the screen. Laughter and warmth fill the air, weaving new memories into the fabric of our cherished Christmas tradition."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Poor quality charger with slow charging speed.",
+    "text": "This charger worked fine for a few months, but now charges so slowly that using the computer while it's charging drains the battery. Very frustrating. Very poor quality.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "A shoddy charger can turn the simple act of powering your device into a tedious wait, creeping sluggishly towards a full battery, testing your patience."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Issues with finding and using chargers for Mac laptops with magnetic connectors. Charging indicator blinks between charging and not charging.",
+    "text": "Its hard to find these types of chargers since Mac switched to the magnetic type. Its hit and miss with the working. My battery indicator switches from charging to not in a blinking fashion.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Owners of Mac laptops with magnetic connectors often grapple with chargers that unpredictably toggle between charging and not, indicated by a blinking light. This inconsistency can lead to frustration and unexpected power loss."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Lower output power supply alternative to Apple supply at reasonable price no longer available on Amazon.",
+    "text": "Though the output of this power supply is lower than the Apple supply, it seems to work fine--and it is very reasonably priced. Too bad that Amazon stopped carrying the supply.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Affordable alternatives to Apple's power supply with less wattage have vanished from Amazon, leaving shoppers seeking budget-friendly options in a bit of a bind."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Maeve Binchy's interconnected family stories in \"Silver Wedding\".",
+    "text": "This book takes a typical family, examines its seperate members, and then provides a look at the whole with the knowledge of the secrets each member has.I enjoy Binchy's style of writing interconnected stories that weave together. She pulled it off first in Lilac Bus and now Silver Wedding.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Maeve Binchy masterfully weaves a tapestry of relations in \"Silver Wedding,\" where each character's journey is entwined with another, painting a vivid picture of family dynamics, secrets, and reconciliation that culminates in the celebration of a twenty-fifth anniversary."
+    },
+    "human_verdict": {
+      "originality": 0,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Thomas Wooden Track Connector Pieces for Easy Design Set-Up.",
+    "text": "The Thomas wooden track connector pieces is just what was needed when setting up different designs. Sometimes when setting up a new design my 4 year old grandson whould end up with no way to connect the finish. These pieces have helped with that problem.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Thomas Wooden Track Connector Pieces offer a seamless way to build and expand your train sets. These small, yet essential elements allow for quick and effortless assembly, ensuring that your imaginative track designs come to life with ease and stability."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Fragile plastic grinder breaks easily under pressure.",
+    "text": "I dont advise buying this grider, it broken when i pressed it. the plastic is very fragile and dont support the pressure requered for grinding the pepper.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "This plastic grinder, delicate in its make, succumbs swiftly to force, cracking and splintering when met with more than a gentle touch, rendering it impractical for robust use."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Inaccurate description and poor performance of mini salt/pepper grinders.",
+    "text": "The description says you can adjust for coarseness of the salt/pepper, but there is no such knob on the mini grinders. We replaced the store bought salt with sea salt and now the grinder doesn't work. Disappointing.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Mini salt/pepper grinders often promise precision and ease but fall short, delivering inconsistent grains and clogging frequently, turning seasoning from a culinary delight into a frustrating kitchen chore."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Encouraging bedtime reading with \"I Spy\" for a toddler.",
+    "text": "My two and half years old girl likes it so much, and every I want to allure her to bed to sleep, I will say read I Spy in bed.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Transform bedtime into an adventure with \"I Spy\" books, where your toddler can hunt for hidden treasures within the pages, fostering a love for stories and a peaceful nightly routine."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative review of book: unrealistic plot and shallow characters.",
+    "text": "This book did not move me at all. The plot is unrealistic and the characters are shallow; they do not seem like real people at all.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The book disappointed with its implausible storyline and one-dimensional characters, failing to evoke any genuine emotional investment or believability throughout the narrative."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Expensive textbook for Fundamentals of Social Research course.",
+    "text": "Well it is only for my course called fundamnetals of socal research but its very expensive indeed. Just wanted the first to make a comment thats all.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "The textbook's cost is daunting, yet it promises a comprehensive exploration of social research methods, essential for any serious student in the field."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Dolly struggles to sing country songs in Bluegrass style.",
+    "text": "As usual, Dolly continues trying to sing but has no voice. The musicians are the only good thing about this recording. She's attempting to sing country songs Bluegrass style and it doesn't work.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Dolly's voice, usually smooth as silk in country ballads, wavered when attempting the rapid, twangy cadences of Bluegrass. Each note felt like an uphill climb, her familiar warble lost in the mountains' echoes."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Lhasa's CD review: Short but powerful.",
+    "text": "The only reason I am giving this CD 4 stars instead of 5, is because it is too short! Lhasa's voice is sultry, sad and powerful. The music is haunting yet airy. Perfection!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Lhasa's latest album hits hard with its concise tracklist, each song delivering an emotional punch. The melodies are haunting, the lyrics profound, creating a powerful, memorable musical experience. A must-listen masterpiece."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Book recommendation for kids who love adventure with a thrilling storyline and friendship between Silver Knight and William.",
+    "text": "I would recommend this book to any kids who love a great adventure. I was on the edge of my seat the whole way through the book. I especially loved the Silver Knight and how he became friends with William. Go get this book!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "\"Embark on a heart-pounding quest in 'Silver Knight and William's Realm of Adventure.' This tale of bravery and camaraderie will captivate young readers eager for daring exploits and the unshakable bond of friendship that conquers all perils.\""
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative review of a book assigned for school reading.",
+    "text": "This was the worst book I have ever read in my entire life! I was forced to read it for school. It was complicated and very boring. I would not recommend this book to anyone!! Please don't waste your time and money to read this book!! Read something else!!",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I struggled with the assigned book for class. The characters were one-dimensional and the plot predictable. The writing style was dry, lacking the engaging flow needed to keep me invested. Despite its educational intent, it failed to provoke thought or genuinely capture my interest."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Recommendation of L.J. Smith's \"Spellbinder\" and other Night World books.",
+    "text": "Spellbinder was the 1st Night World book I have ever read.I recomended this book to ALL my friends,and I recomend it to you also. L.J. Smith is a very talented writer and I plan to read ALL of her books to come.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "If you're enthralled by tales of supernatural romance and clandestine societies, L.J. Smith's \"Spellbinder\" is a must-read. Delve into the Night World series for an addictive mix of vampires, witches, and shapeshifters that will keep you captivated."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Technical issues overshadow the interesting story and action in a rushed video game release.",
+    "text": "The story is very interesting and the action and enemies are awesome, but the game just has to many technical issues. I think they rushed to get it on the shelves ASAP. Tech problems are my only quirk with the game.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "When a video game is hurriedly launched, technical glitches often eclipse the captivating narrative and dynamic gameplay, leaving players frustrated and distracted from the immersive experience that developers originally intended to create."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Elementary school science book on insects with beautiful photographs and basic information.",
+    "text": "This would be a great book for use in elementary school science classes. It has a wonderful layout, with many beautiful photographs (if insects can be called beautiful). The text, mixed nicely with the pictures, covers basic information on insects as well as various interesting facts.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Dive into the tiny world of insects with our vividly illustrated science book for young learners! Each page buzzes with stunning photos and easy-to-understand facts, inviting kids to explore the diverse lives of these fascinating six-legged creatures."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Recommendation for using a book in Contemporary Adult Sunday School classes or Bible studies.",
+    "text": "A bit simplistic at times, but got some good discussions goingin our Sunday School class (Methodist). Would recommend itfor Contemporary Adult Sunday School classes or Bible studies.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "\"Integrate thought-provoking books that resonate with modern life to foster meaningful discussions and practical application of biblical principles in your adult Sunday School or Bible study.\""
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Disappointment with small set size and regret over not spending more for a better set.",
+    "text": "I was expecting a bigger set so was surprised at how small it was. I should have spent more for a better set, but it will have to do for now.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I felt a sting of disappointment with the tiny set; in hindsight, paying extra for a more expansive, superior collection would have spared me this regret."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Positive review of a cost-effective and efficient product.",
+    "text": "Good product. Got it in a timely manner. Does exactly what it is supposed to do. Not too expensive and just as good as the rest of the tools that are over priced. The tools work great and have been used a lot this winter.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I recently purchased a budget-friendly blender that exceeded all expectations. It's not only affordable but also incredibly powerful, making smoothies and soups with ease. Its compact size saves space without sacrificing performance. Definitely a kitchen game-changer for anyone shopping on a budget."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Compatibility issues with game in Windows Vista.",
+    "text": "I was unable to get this game to work in Windows Vista. I inquired about a patch but did not receive a response.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "Many games struggle on Windows Vista due to driver incompatibilities and DirectX version mismatches, leading to crashes and poor performance."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Disappointing book purchase due to repetitive and ridiculous content.",
+    "text": "I bought the book because I read the review and it look interesting and funny. But after the first pages, I knew that this was a mistake. Is very repetitive and some of the content really ridiculous for this age and time.",
+    "year": "before2020",
+    "genre": "amazon review",
+    "source": "https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews",
+    "ai_generated": {
+      "openai": "I recently bought a book hoping for a fresh, engaging read, but instead found myself trudging through pages of monotonous drivel. The same tired tropes were recycled ad nauseam, leaving me regretting the purchase and questioning the hype."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "New template named \"Aliens Stole My Wallet\" is amusing.",
+    "text": "I got a new template. It's an ok template, but I love the name of it. \"Aliens Stole My Wallet.\" Haha, I guess I'm easily amused.",
+    "year": "30,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "The new template \"Aliens Stole My Wallet\" is a humorous and entertaining way to share stories or anecdotes with a unique twist."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Feeling positive about life and plans to go out on a Saturday night.",
+    "text": "Life seems pretty good right now. I have a lot of homework, but other than that, life seems good. I think I'm going out later. YaY! I'm not spending my Saturday night alone.",
+    "year": "30,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Excitement fills the air as the weekend approaches, making Saturday nights the perfect time to go out and enjoy the moment. Embracing the positive vibes, one looks forward to making lasting memories."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Shopping for Ty-Dye shirt at Michaels.",
+    "text": "So, I went to Michaels to get my shirt for Chemistry and the whole Ty-Dyeing thng. I wanted to get a long sleeved one, but I couldn't find one. :( Oh well, such is life. I wonder what I'll do tonight...",
+    "year": "30,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "I strolled through Michaels, browsing the racks of vibrant Ty-Dye shirts. The colorful patterns caught my eye, each one unique and bursting with personality. I finally settled on a bright pink and blue design, excited to wear it out."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "List of colors associated with names.",
+    "text": "Diane-Orange Derek-Red Kelly-Red Matthew-Orange Kristen-Orange Joanne-Yellow Mary Clare-Sky blue Brett-Blue Emily-Yellow Dave-Sepia Bryan-Bright yellow Chris-Orange Brandon-Green Me-Brown  I wanted to remember what color everyone has said so far, so I'm writing them down.",
+    "year": "30,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Some colors associated with names include Scarlett, Violet, Jade, Ruby, and Amber. These names evoke images of rich reds, deep blues, vibrant greens, and warm yellows, adding a colorful flair to identities."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Childhood Loser Alphabetizing Crayons",
+    "text": "Haha. Wow, I was SUCH a loser as a child. It amazes me. I'm still a loser, but man....  Alphabetizing crayons. Wow. Psh.",
+    "year": "30,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Sorting crayons was a childhood pastime, organizing colors by name. Feeling accomplished, a rainbow of order emerged from chaos."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": null,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Embracing solitude and self-confidence on a Friday night.",
+    "text": "I'm glad I'm secure enough with myself to be able to stay at home on a Friday night without feeling bad.",
+    "year": "29,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Enjoying a peaceful Friday night alone, finding strength in solitude and confidence in oneself. Embracing the quiet moments with grace."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Mixed feelings about the passing of time and upcoming week.",
+    "text": "Things have actually been going ok this week. The week is going by really fast thankfully, but I know next week will drag by SO MUCH! I don't really feel like typing anything right now, so...maybe I'll write more later. I have to go make my dinner anyway.",
+    "year": "29,May,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "As the days slip by, emotions swirl in anticipation of the upcoming week. A blend of excitement and apprehension fills the air, as new challenges and opportunities lie ahead. Time marches on, leaving us to navigate the unknown with a mix of hope and uncertainty."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Feeling confused and finding happiness in thoughts of Michigan.",
+    "text": "So, what to do, what to do. I don't know. I don't even know what I'm thinking. Life seems very confusing right now. Michigan. Michigan. Michgan. I just need to keep thinking of it, and I'll be happy. :)",
+    "year": "06,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "In moments of uncertainty, my mind wanders back to the tranquil beauty of Michigan. The memories of serene lakes and lush forests bring a sense of peace and happiness that soothes my confusion."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Abstinence analogy: Thanksgiving dinner.",
+    "text": "Haha. OK, so Angie and I made up a good analogy.  Abstinence is like Thanksgiving dinner. You don't eat anything all day because you know dinner will be really really good.  YaY for abstinence!",
+    "year": "06,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Thanksgiving dinner without indulging in rich foods is like resisting temptation during a feast. It requires willpower, but the rewards of self-control can leave you feeling empowered and proud."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Conflict between head and heart in decision-making.",
+    "text": "My head says no but my heart says yes. I can't follow my heart though. It will end in pain and humiliation. I know it will.",
+    "year": "06,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "When faced with tough decisions, the battle between logic and emotions can create inner conflict, making it challenging to choose the right path."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Mixed feelings about the best time of your life.",
+    "text": "They say this is the best time of your life, and I don't necessarily doubt it but there's some pretty crappy stuff that goes along with it.",
+    "year": "06,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Reflecting on the past brings both joy and sadness, as memories of the best times are mixed with the knowledge that they can never be relived."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Determination to maintain close friendships.",
+    "text": "OK, I've decided. I'm not letting myself lose touch with my really good friends like my kelly's and Joanne and Kathryn, and Emily and stuff. No way no how. I'm just not going to let it happen. I'm determined! HMPH!",
+    "year": "03,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Nurturing close friendships requires effort and commitment. It involves being there for each other through thick and thin, making time to connect, and showing genuine care and support. It's a choice to prioritize these relationships and cherish the bond that brings joy and fulfillment."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Fear of being misunderstood in conversation.",
+    "text": "What scares me most, is that I wouldn't be surprised if that happened....  Haha, I love talking when no one has any idea what I'm saying.",
+    "year": "03,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "It's natural to worry about not getting your point across correctly. Clear communication is key to avoid misunderstandings and build stronger connections."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Struggling to cope with missing a pet.",
+    "text": "I miss my cat. No, no, no, no, no, not now. I'm not thinking of her now. Nope, I'll start to cry. I've managed to push it to the back of my mind and force it to stay there, and that's what I'm going to keep doing.",
+    "year": "02,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Losing a beloved pet can feel like a piece of your heart has been torn away. The emptiness and longing can be overwhelming. Remember to allow yourself to grieve and seek support from loved ones during this difficult time."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Struggling with being liked by someone you dislike.",
+    "text": "What do you do when the only person who likes you is the only person you truely dislike?  He's the only person I'll ever get to like me, and I can't even like him one bit. JEEZ! Figures.",
+    "year": "02,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "It can be tough when someone you don't particularly care for seems to have a positive opinion of you. It can create inner conflict and make interactions with them feel insincere."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Relief from stomachache with Advil.",
+    "text": "OK, my tummy is starting to feel a little better again. I took more advil. Eeks. Thank goodness for drugs though. Legal drugs of course. Haha. Anyway, I'm off to read, then sleep.",
+    "year": "02,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Advil provides quick relief from stomachaches, helping to alleviate discomfort and pain. Its fast-acting formula targets the source of the ache, allowing you to feel better and get back to your day."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Negative reaction to disturbing images.",
+    "text": "OH MY GOSH OH MY GOSH OH MY GOSH! BAD BAD BAD BAD BAD BAD BAD BAD IMAGES!!!  Ewwwww!!!!!!!!!!!!!!!!!!   I think I'm going to be ill...",
+    "year": "01,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "It's natural to feel unsettled by disturbing images. Take time to process your emotions and seek support if needed to cope effectively."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Concern about losing touch with friend Alex.",
+    "text": "I'm really worried. I haven't talked to Alex lately. I don't want to lose him as a friend. He's such an awesome person. I don't ever want to stop talking to him.",
+    "year": "01,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "I've been feeling worried about how little I've been in touch with Alex lately. It's important to make time for our friendships and not let them slip away."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Uncertainty about giving a letter to Ryan.",
+    "text": "Well, I finished my letter to Ryan, now to give it to him? Do I? Don't I? I really don't know.",
+    "year": "12,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "I'm not sure if I should give Ryan the letter. I worry about his reaction and what it might mean."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Late-night energy boost without drugs or alcohol.",
+    "text": "Whooooooooooooooooooooooooo!!! I'm crazy, loony, psycho. I've definitely reached the highlands. Man, they say you need drugs and alcohol to get a buzz, I say just stay up extremely late! WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!  Hahahahahahaha. Goodnight, goodnight!",
+    "year": "12,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "When you're feeling sluggish at night, try going for a brisk walk, doing some light stretching, or engaging in a calming activity like reading or listening to music to boost your energy without relying on drugs or alcohol."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "A day too interesting to write about.",
+    "text": "I had a very good very...interesting day. I don't think I want to write about it in here though. I was going to but I think I've decided against it.",
+    "year": "11,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "The events of that day were so bizarre, it felt like a dream. From unexpected encounters to peculiar occurrences, it was a day that defied explanation."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Dull and boring day with anticipation for tomorrow.",
+    "text": "Today was so dull and boring I don't even really want to write about it. Heh. Oh well, tomorrow will be fun at least.",
+    "year": "10,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "The day passed slowly, filled with monotony. Yet, excitement for tomorrow lingered, bringing a glimmer of hope amidst the dullness."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Emotional pain and heartache.",
+    "text": "Argh. Tonight so many things are hurting me. I feel like my heart has been ripped apart so many times tonight. Like, it was ripped apart, and started healing, then ripped apart again. It hurts so much.",
+    "year": "08,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "It feels like a weight pressing down on your chest, a constant ache that won't go away. Each breath is heavy with sorrow, each beat of your heart a reminder of the pain."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Decreasing liking towards someone causing frustration and annoyance.",
+    "text": "You know, it's funny. I seem to like him less and less every day. OK, it's not funny. It's terrible, but really. He makes me so angry, and so mad almost every time I talk to him. Argh. Some people really annoy me.",
+    "year": "27,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "As the initial admiration fades, the presence of that person becomes a source of irritation and impatience. The shift from liking to annoyance can be a frustrating experience, leaving one feeling conflicted and distant."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Difficulty typing due to clumsy fingers.",
+    "text": "Haha, wow...I'm having so much trouble typing tonight. My fingers are being clumsy for some reason. I have to type like every word twice. Grrrr.",
+    "year": "27,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Struggling to type accurately because of my clumsy fingers often leads to frustrating mistakes and slow progress on the keyboard."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Overcoming discouragement and finding courage in a world full of darkness.",
+    "text": "You with the sad eyes  Don't be discouraged  Oh I realize  It's hard to take courage  In a world full of people  You can lose sight of it all  And the darkness, inside you  Can make you feel so small",
+    "year": "26,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "In times of darkness, remember that even a small spark of courage can light the way. Stay strong, keep moving forward, and believe in the power of your own resilience to overcome any discouragement."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Outing with family and cleaning room for new furniture.",
+    "text": "Sooo, today I'm just going out with my family and whatnot. It'll be a good time. It always is. I also have to clean my room if I want to get my new furniture. My mom's good at coming up with bribes. Grrr. Ah well. I'm off.",
+    "year": "26,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "We had a fun day out with the family, but now it's time to tackle cleaning the room to make space for new furniture. It's a team effort, and we're excited to see how the room will transform with the fresh additions."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Struggling with decision-making and making choices.",
+    "text": "Hmmmm. Well, I just don't know now...I talk to one, and think I've decided but then talk to the other. Argh. I don't like making choices.",
+    "year": "24,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "It's normal to feel overwhelmed when faced with tough decisions. Take time to weigh your options, listen to your intuition, and trust in your ability to choose wisely."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Missing my cat and wishing she were here.",
+    "text": "I miss my cat. :( I really miss her. I wish she were here. She's be right by my side too. I could tell her stuff.",
+    "year": "23,June,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "I long for my cat's comforting presence, her soft purrs and gentle nuzzles. I wish she were here to chase away my loneliness."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Enjoying quizzes despite lack of trust in people.",
+    "text": "That's kind of funny considering I don't think I'm really that truting with most people. Wow, these quizzes are fun...I think I'll take more.",
+    "year": "04,July,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "I find solace in quizzes, a realm where answers are clear and unbiased, unlike the murky realm of human intentions."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Reluctantly hosting parents' parties.",
+    "text": "I don't like throwing parties, especially when it's not my party, but my parents, so I still get stuck doing cleaning and cooking and stuff, but I don't get to see anyone really.",
+    "year": "04,July,2003",
+    "genre": "blog",
+    "source": "https://huggingface.co/datasets/barilan/blog_authorship_corpus",
+    "ai_generated": {
+      "openai": "Hosting parents' parties can be overwhelming, but finding joy in their happiness can make it worth the effort. Embrace the chaos, enjoy the company, and create lasting memories together."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "80-year-old Thief River Falls man missing",
+    "text": "Eighty-year-old Orvin Sund went missing about 11 a.m. Tuesday\nSund, who has dementia, was last seen about 4 p.m. on the outskirts of town.\nPeople have been looking throughout the day.\nPolice tonight are asking everyone to check their property.",
+    "year": "2017-02-14 21:26:57",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "Authorities are searching for the missing 80-year-old man from Thief River Falls. The man was last seen leaving his residence, and his family is concerned for his well-being. Anyone with information is urged to contact the local police department."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "The Razor and Blades Model, Applied to Mattresses",
+    "text": "Best of One Foot Tsunami Read a random selection from OFT's very best posts: My Most Expensive Tweet Ever Check out the full Best Of archive.\nTune in to Just The Tip Hear Paul and his good friend Amy Jane Gruber on their mildly-popular Just The Tip comedy podcast.",
+    "year": "2017-12-11 14:13:11",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "In the mattress industry, the Razor and Blades model can be seen through the sale of mattress accessories like sheets and pillows. Just like how razor companies sell replacement blades, mattress companies offer accessories to complement their main product, creating a continuous stream of revenue."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Open data from The White House returns no results",
+    "text": "These are my picks for the best of 2015. As usual, they could easily appear in a different order on a different day, and there are projects not on the list that were also excellent.",
+    "year": "2017-02-15 10:45:38",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "It seems that the open data from The White House is currently unavailable. This may impact research and analysis that rely on this information. It is important to monitor for updates."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Rivals 250 OL cuts list, will play in the SEC",
+    "text": "Warren McClendon has heard and seen enough to go cut his list to five schools from a list of 23 scholarship offers.Alabama offered him first when he was just a freshman. Since the Crimson Tide offe...",
+    "year": "2018-05-30 09:23:09",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "The highly touted offensive lineman has narrowed down his list of potential schools and ultimately decided to play in the competitive SEC conference, showcasing his talent against some of the best competition in college football."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Boddie's quick trip to Tech puts the Jackets in his final six",
+    "text": "NASHVILLE—Three-star athlete Devin Boddie got a quick glimpse of Georgia Tech last month during an unofficial visit for the Jackets’ annual spring game, but he wants to see more and that visit was ...",
+    "year": "2018-05-30 14:39:32",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "Boddie's visit to Tech left a lasting impression, earning the Jackets a spot in his final six choices. The quick trip showcased the program's appeal and potential for his future career."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "JOL Podcast 4/24",
+    "text": "Listen to Jacketsonline publisher Kelly Quinlan and staff writer Jared Halus talk about the Georgia Tech 2018 spring game and recap the spring with an eye toward the upcoming season.",
+    "year": "2018-04-24 18:47:12",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "In the latest JOL Podcast episode released on April 24th, the hosts discussed trending topics in pop culture and shared personal anecdotes, creating an engaging and entertaining listening experience."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 0,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Jackets have impressed Johnson",
+    "text": "Georgia Tech hosted a list of impressive prospects for the annual spring game, and among them was George Johnson III, a 2019 ATH out of Stuart, Florida. Though Georgia Tech was always in the runnin...",
+    "year": "2018-04-24 08:16:25",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "Johnson has been thoroughly impressed by the jackets he has come across recently. Their quality, style, and functionality have exceeded his expectations, making them a must-have item in his wardrobe."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 1,
+      "roberta-base-detector": 0
+    }
+  },
+  {
+    "topic": "Islamic State group claims the man who killed 4 people in the Belgian city of Liege was a 'soldier of the caliphate'",
+    "text": "CAIRO (AP) — Islamic State group claims the man who killed 4 people in the Belgian city of Liege was a 'soldier of the caliphate'",
+    "year": "2018-05-31 02:42:00",
+    "genre": "news",
+    "source": "https://huggingface.co/datasets/vblagoje/cc_news",
+    "ai_generated": {
+      "openai": "The Islamic State group has claimed responsibility for the man who killed four people in Liege, Belgium, referring to him as a 'soldier of the caliphate'."
+    },
+    "human_verdict": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    },
+    "ai_verdicts": {
+      "originality": null,
+      "pengram": 1,
+      "gptzero": 0,
+      "roberta-base-detector": 0
+    }
+  }
+]
