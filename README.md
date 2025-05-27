@@ -49,6 +49,19 @@ Our workflow involves several steps:
 5. Repeat the evaluation for short passages (49 words or fewer).
 6. "Humanize" the AI-generated texts with the StealthGPT tool and re-test them using the best-performing detector, Pengram.
 
+
+## Data Sources
+
+Our evaluation relies on a diverse collection of **pre-2020 human-authored texts** across multiple genres. The original human-written documents are sourced from publicly available and widely used datasets:
+
+* **[CC-News](https://huggingface.co/datasets/cc_news)** – A collection of English-language news articles scraped from Common Crawl. Used to represent journalistic content.
+* **[Bar-Ilan Blog Authorship Corpus](https://huggingface.co/datasets/barilan/blog_authorship_corpus)** – A corpus of personal blog posts written by thousands of authors. Used to evaluate performance on informal first-person writing.
+* **[Resume Dataset (Kaggle)](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)** – A compilation of resumes and CVs representing professional self-descriptions. Used to test detector accuracy on structured, formal writing.
+* **[Yelp Review Full](https://huggingface.co/datasets/Yelp/yelp_review_full)** – User-generated reviews with sentiment ratings. Used to evaluate performance on consumer-facing narrative and opinionated writing.
+* **[Amazon Reviews (Kaggle)](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews)** – Product reviews across a wide range of categories. Used to assess generalization across e-commerce and review genres.
+* **Pre-2000 Novel Corpus** – A collection of long-form fictional texts written prior to the year 2000. Included to test how detectors perform on traditional narrative structures and literary language, distinct from modern internet discourse.
+
+
 ## Usage
 The notebooks were developed in **Google Colab**, but they can be run locally as
 well.
