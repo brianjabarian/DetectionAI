@@ -91,7 +91,7 @@ Key points include:
    - model="gpt-3.5-turbo",
    - temperature=0.7,
    - max_tokens=min(word_count * 2, 2048)
-5. **Reproducibility Package** – All notebooks, prompts, and parameter settings live in this repository under `notebooks/` and `results/`. The environment can be recreated with `requirements.txt`.
+5. **AI Prompts** We used the following prompt to generate the AI version of the human pre-2020 texts: """You are a writing assistant. Write an original passage on the topic: '{topic}'. It should be approximately {word_count} words long. Be clear and human-like. Avoid copying or referencing specific texts. ⚠️ Do not include or repeat the topic or instructions in your output. Return only the generated passage text."""
 6. **Training-Data Separation** – We do not upload any confidential data to third-party services.
 7. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
 8. **Citation and Attribution** – Any verbatim AI-generated text will cite the model snapshot and date.
