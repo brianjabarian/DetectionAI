@@ -81,12 +81,12 @@ well.
 ## AI Policy Compliance
 This project follows the **Scientific Policy on AI Use & Reproducibility in Economics (Jabarian, 2025)**.
 Key points include:
-1. **AI-Use Disclosure** – We evaluate several detectors:
+1. **AI-Detection Systems** – We evaluate several detectors:
    - **Pengram**
    - **GPTZero**
    - **Originality**
    - **roberta-base-detector** 
-2. **AI-Detector Choice**—Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
+2. **AI-Detector System Choice **—Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
 3. **AI-Generating Model** We used GPT-3.5-turbo to generate the AI writings following this parametrization:
    - model="gpt-3.5-turbo",
    - temperature=0.7,
