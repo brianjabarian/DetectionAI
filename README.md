@@ -99,7 +99,7 @@ Key points include:
 
 ## Contributors
 1. Co-authors: Alex Imas, Brian Jabarian
-2. RAs: Eda Congedez, Ziyue Fenge, Zlata Krasic
+2. RAs: Eda Congedez, Ziyue Feng, Zlata Krasic
 
 ## License
 
