@@ -62,7 +62,7 @@ Our evaluation relies on a diverse collection of **pre-2020 human-authored texts
 * **[Pre-2000 Novel Corpus](https://github.com/computationalstylistics/100_english_novels/tree/master/corpus)** – A collection of long-form fictional texts written prior to the year 2000. Included to test how detectors perform on traditional narrative structures and literary language, distinct from modern internet discourse.
 
 ## Usage
-The notebooks were developed in **Google Colab**, but they can be run locally as
+The notebooks were developed in **Google Colab** and **GCP**, but they can be run locally as
 well.
 
 ### Colab
@@ -86,10 +86,18 @@ Key points include:
    - **Originality**
    - **roberta-base-detector** 
 2. **AI-Detector System Choice** Closed–source APIs were chosen as primary models because the open-source model, Roberta-base-detector, performs extremely poorly and appears only as a secondary check.
-3. **AI-Generating Model** We used GPT-3.5-turbo to generate the AI writings following this parametrization:
+3. **AI-Generating Model** We used the following models to generate the AI writings
+   - **GPT-3.5-turbo**
+   - **GPT-4.1** 
+   - **Claude Opus 4**
+   - **Claude Sonnet 4**
+   - **Gemini 2.0 Flash**
+  
+   to generate the AI writings following this parametrization:
    - model="gpt-3.5-turbo",
    - temperature=0.7,
    - max_tokens=min(word_count * 2, 2048)
+   
 5. **AI Prompts** We used the following prompt to generate the AI version of the human pre-2020 texts: """You are a writing assistant. Write an original passage on the topic: '{topic}'. It should be approximately {word_count} words long. Be clear and human-like. Avoid copying or referencing specific texts. ⚠️ Do not include or repeat the topic or instructions in your output. Return only the generated passage text."""
 6. **Training-Data Separation** – We do not upload any confidential data to third-party services.
 7. **Hallucination & Robustness Diagnostics** – Results tables report sensitivity to multiple sampling settings.
@@ -99,7 +107,7 @@ Key points include:
 
 ## Contributors
 1. Co-authors: Alex Imas, Brian Jabarian
-2. RAs: Eda Congedez, Ziyue Feng, Zlata Krasic
+2. RAs: Eda Congedez, Ziyue Feng, Zlata Krasic, Andrew Rafael James
 
 ## License
 
