@@ -1,0 +1,161 @@
+,Detector,FPR Target,Error Type,Error Rate,Count,Total,model
+0,gptzero,0.0001,Type I (False Positive),0.0,0,164,GPT-4.1
+1,gptzero,0.0001,Type II (False Negative),1.0,164,164,GPT-4.1
+2,gptzero,0.0050,Type I (False Positive),0.0,0,164,GPT-4.1
+3,gptzero,0.0050,Type II (False Negative),1.0,164,164,GPT-4.1
+4,gptzero,0.0100,Type I (False Positive),0.024390243902439025,4,164,GPT-4.1
+5,gptzero,0.0100,Type II (False Negative),0.024390243902439025,4,164,GPT-4.1
+6,gptzero,0.0500,Type I (False Positive),0.024390243902439025,4,164,GPT-4.1
+7,gptzero,0.0500,Type II (False Negative),0.024390243902439025,4,164,GPT-4.1
+8,gptzero,0.1000,Type I (False Positive),0.024390243902439025,4,164,GPT-4.1
+9,gptzero,0.1000,Type II (False Negative),0.024390243902439025,4,164,GPT-4.1
+10,originality,0.0001,Type I (False Positive),0.0,0,3,GPT-4.1
+11,originality,0.0001,Type II (False Negative),0.0,0,2,GPT-4.1
+12,originality,0.0050,Type I (False Positive),0.0,0,3,GPT-4.1
+13,originality,0.0050,Type II (False Negative),0.0,0,2,GPT-4.1
+14,originality,0.0100,Type I (False Positive),0.0,0,3,GPT-4.1
+15,originality,0.0100,Type II (False Negative),0.0,0,2,GPT-4.1
+16,originality,0.0500,Type I (False Positive),0.6666666666666666,2,3,GPT-4.1
+17,originality,0.0500,Type II (False Negative),0.0,0,2,GPT-4.1
+18,originality,0.1000,Type I (False Positive),0.6666666666666666,2,3,GPT-4.1
+19,originality,0.1000,Type II (False Negative),0.0,0,2,GPT-4.1
+20,pengram,0.0001,Type I (False Positive),0.006097560975609756,1,164,GPT-4.1
+21,pengram,0.0001,Type II (False Negative),0.11585365853658537,19,164,GPT-4.1
+22,pengram,0.0050,Type I (False Positive),0.024390243902439025,4,164,GPT-4.1
+23,pengram,0.0050,Type II (False Negative),0.012195121951219513,2,164,GPT-4.1
+24,pengram,0.0100,Type I (False Positive),0.036585365853658534,6,164,GPT-4.1
+25,pengram,0.0100,Type II (False Negative),0.006097560975609756,1,164,GPT-4.1
+26,pengram,0.0500,Type I (False Positive),0.11585365853658537,19,164,GPT-4.1
+27,pengram,0.0500,Type II (False Negative),0.0,0,164,GPT-4.1
+28,pengram,0.1000,Type I (False Positive),0.18292682926829268,30,164,GPT-4.1
+29,pengram,0.1000,Type II (False Negative),0.0,0,164,GPT-4.1
+30,roberta-base-detector,0.0001,Type I (False Positive),0.0,0,164,GPT-4.1
+31,roberta-base-detector,0.0001,Type II (False Negative),1.0,164,164,GPT-4.1
+32,roberta-base-detector,0.0050,Type I (False Positive),0.0,0,164,GPT-4.1
+33,roberta-base-detector,0.0050,Type II (False Negative),1.0,164,164,GPT-4.1
+34,roberta-base-detector,0.0100,Type I (False Positive),0.0,0,164,GPT-4.1
+35,roberta-base-detector,0.0100,Type II (False Negative),1.0,164,164,GPT-4.1
+36,roberta-base-detector,0.0500,Type I (False Positive),0.0,0,164,GPT-4.1
+37,roberta-base-detector,0.0500,Type II (False Negative),1.0,164,164,GPT-4.1
+38,roberta-base-detector,0.1000,Type I (False Positive),0.0,0,164,GPT-4.1
+39,roberta-base-detector,0.1000,Type II (False Negative),0.9939024390243902,163,164,GPT-4.1
+0,gptzero,0.0001,Type I (False Positive),0.0,0,164,Claude Opus 4
+1,gptzero,0.0001,Type II (False Negative),1.0,164,164,Claude Opus 4
+2,gptzero,0.0050,Type I (False Positive),0.0,0,164,Claude Opus 4
+3,gptzero,0.0050,Type II (False Negative),1.0,164,164,Claude Opus 4
+4,gptzero,0.0100,Type I (False Positive),0.024390243902439025,4,164,Claude Opus 4
+5,gptzero,0.0100,Type II (False Negative),0.1402439024390244,23,164,Claude Opus 4
+6,gptzero,0.0500,Type I (False Positive),0.024390243902439025,4,164,Claude Opus 4
+7,gptzero,0.0500,Type II (False Negative),0.1402439024390244,23,164,Claude Opus 4
+8,gptzero,0.1000,Type I (False Positive),0.024390243902439025,4,164,Claude Opus 4
+9,gptzero,0.1000,Type II (False Negative),0.1402439024390244,23,164,Claude Opus 4
+10,originality,0.0001,Type I (False Positive),0.0,0,3,Claude Opus 4
+11,originality,0.0001,Type II (False Negative),0.4,2,5,Claude Opus 4
+12,originality,0.0050,Type I (False Positive),0.0,0,3,Claude Opus 4
+13,originality,0.0050,Type II (False Negative),0.2,1,5,Claude Opus 4
+14,originality,0.0100,Type I (False Positive),0.0,0,3,Claude Opus 4
+15,originality,0.0100,Type II (False Negative),0.0,0,5,Claude Opus 4
+16,originality,0.0500,Type I (False Positive),0.6666666666666666,2,3,Claude Opus 4
+17,originality,0.0500,Type II (False Negative),0.0,0,5,Claude Opus 4
+18,originality,0.1000,Type I (False Positive),0.6666666666666666,2,3,Claude Opus 4
+19,originality,0.1000,Type II (False Negative),0.0,0,5,Claude Opus 4
+20,pengram,0.0001,Type I (False Positive),0.006097560975609756,1,164,Claude Opus 4
+21,pengram,0.0001,Type II (False Negative),0.21341463414634146,35,164,Claude Opus 4
+22,pengram,0.0050,Type I (False Positive),0.024390243902439025,4,164,Claude Opus 4
+23,pengram,0.0050,Type II (False Negative),0.042682926829268296,7,164,Claude Opus 4
+24,pengram,0.0100,Type I (False Positive),0.036585365853658534,6,164,Claude Opus 4
+25,pengram,0.0100,Type II (False Negative),0.018292682926829267,3,164,Claude Opus 4
+26,pengram,0.0500,Type I (False Positive),0.11585365853658537,19,164,Claude Opus 4
+27,pengram,0.0500,Type II (False Negative),0.006097560975609756,1,164,Claude Opus 4
+28,pengram,0.1000,Type I (False Positive),0.18292682926829268,30,164,Claude Opus 4
+29,pengram,0.1000,Type II (False Negative),0.006097560975609756,1,164,Claude Opus 4
+30,roberta-base-detector,0.0001,Type I (False Positive),0.0,0,164,Claude Opus 4
+31,roberta-base-detector,0.0001,Type II (False Negative),1.0,164,164,Claude Opus 4
+32,roberta-base-detector,0.0050,Type I (False Positive),0.0,0,164,Claude Opus 4
+33,roberta-base-detector,0.0050,Type II (False Negative),1.0,164,164,Claude Opus 4
+34,roberta-base-detector,0.0100,Type I (False Positive),0.0,0,164,Claude Opus 4
+35,roberta-base-detector,0.0100,Type II (False Negative),1.0,164,164,Claude Opus 4
+36,roberta-base-detector,0.0500,Type I (False Positive),0.0,0,164,Claude Opus 4
+37,roberta-base-detector,0.0500,Type II (False Negative),0.9939024390243902,163,164,Claude Opus 4
+38,roberta-base-detector,0.1000,Type I (False Positive),0.0,0,164,Claude Opus 4
+39,roberta-base-detector,0.1000,Type II (False Negative),0.9878048780487805,162,164,Claude Opus 4
+0,gptzero,0.0001,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+1,gptzero,0.0001,Type II (False Negative),1.0,164,164,Claude Sonnet 4
+2,gptzero,0.0050,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+3,gptzero,0.0050,Type II (False Negative),1.0,164,164,Claude Sonnet 4
+4,gptzero,0.0100,Type I (False Positive),0.024390243902439025,4,164,Claude Sonnet 4
+5,gptzero,0.0100,Type II (False Negative),0.054878048780487805,9,164,Claude Sonnet 4
+6,gptzero,0.0500,Type I (False Positive),0.024390243902439025,4,164,Claude Sonnet 4
+7,gptzero,0.0500,Type II (False Negative),0.054878048780487805,9,164,Claude Sonnet 4
+8,gptzero,0.1000,Type I (False Positive),0.024390243902439025,4,164,Claude Sonnet 4
+9,gptzero,0.1000,Type II (False Negative),0.054878048780487805,9,164,Claude Sonnet 4
+10,originality,0.0001,Type I (False Positive),0.0,0,3,Claude Sonnet 4
+11,originality,0.0001,Type II (False Negative),0.09090909090909091,1,11,Claude Sonnet 4
+12,originality,0.0050,Type I (False Positive),0.0,0,3,Claude Sonnet 4
+13,originality,0.0050,Type II (False Negative),0.0,0,11,Claude Sonnet 4
+14,originality,0.0100,Type I (False Positive),0.0,0,3,Claude Sonnet 4
+15,originality,0.0100,Type II (False Negative),0.0,0,11,Claude Sonnet 4
+16,originality,0.0500,Type I (False Positive),0.6666666666666666,2,3,Claude Sonnet 4
+17,originality,0.0500,Type II (False Negative),0.0,0,11,Claude Sonnet 4
+18,originality,0.1000,Type I (False Positive),0.6666666666666666,2,3,Claude Sonnet 4
+19,originality,0.1000,Type II (False Negative),0.0,0,11,Claude Sonnet 4
+20,pengram,0.0001,Type I (False Positive),0.006097560975609756,1,164,Claude Sonnet 4
+21,pengram,0.0001,Type II (False Negative),0.12804878048780488,21,164,Claude Sonnet 4
+22,pengram,0.0050,Type I (False Positive),0.024390243902439025,4,164,Claude Sonnet 4
+23,pengram,0.0050,Type II (False Negative),0.012195121951219513,2,164,Claude Sonnet 4
+24,pengram,0.0100,Type I (False Positive),0.036585365853658534,6,164,Claude Sonnet 4
+25,pengram,0.0100,Type II (False Negative),0.006097560975609756,1,164,Claude Sonnet 4
+26,pengram,0.0500,Type I (False Positive),0.11585365853658537,19,164,Claude Sonnet 4
+27,pengram,0.0500,Type II (False Negative),0.0,0,164,Claude Sonnet 4
+28,pengram,0.1000,Type I (False Positive),0.18292682926829268,30,164,Claude Sonnet 4
+29,pengram,0.1000,Type II (False Negative),0.0,0,164,Claude Sonnet 4
+30,roberta-base-detector,0.0001,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+31,roberta-base-detector,0.0001,Type II (False Negative),1.0,164,164,Claude Sonnet 4
+32,roberta-base-detector,0.0050,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+33,roberta-base-detector,0.0050,Type II (False Negative),1.0,164,164,Claude Sonnet 4
+34,roberta-base-detector,0.0100,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+35,roberta-base-detector,0.0100,Type II (False Negative),1.0,164,164,Claude Sonnet 4
+36,roberta-base-detector,0.0500,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+37,roberta-base-detector,0.0500,Type II (False Negative),1.0,164,164,Claude Sonnet 4
+38,roberta-base-detector,0.1000,Type I (False Positive),0.0,0,164,Claude Sonnet 4
+39,roberta-base-detector,0.1000,Type II (False Negative),0.9939024390243902,163,164,Claude Sonnet 4
+0,gptzero,0.0001,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+1,gptzero,0.0001,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
+2,gptzero,0.0050,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+3,gptzero,0.0050,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
+4,gptzero,0.0100,Type I (False Positive),0.024390243902439025,4,164,Gemini 2.0 Flash
+5,gptzero,0.0100,Type II (False Negative),0.15853658536585366,26,164,Gemini 2.0 Flash
+6,gptzero,0.0500,Type I (False Positive),0.024390243902439025,4,164,Gemini 2.0 Flash
+7,gptzero,0.0500,Type II (False Negative),0.15853658536585366,26,164,Gemini 2.0 Flash
+8,gptzero,0.1000,Type I (False Positive),0.024390243902439025,4,164,Gemini 2.0 Flash
+9,gptzero,0.1000,Type II (False Negative),0.15853658536585366,26,164,Gemini 2.0 Flash
+10,originality,0.0001,Type I (False Positive),0.0,0,3,Gemini 2.0 Flash
+11,originality,0.0001,Type II (False Negative),0.6666666666666666,2,3,Gemini 2.0 Flash
+12,originality,0.0050,Type I (False Positive),0.0,0,3,Gemini 2.0 Flash
+13,originality,0.0050,Type II (False Negative),0.0,0,3,Gemini 2.0 Flash
+14,originality,0.0100,Type I (False Positive),0.0,0,3,Gemini 2.0 Flash
+15,originality,0.0100,Type II (False Negative),0.0,0,3,Gemini 2.0 Flash
+16,originality,0.0500,Type I (False Positive),0.6666666666666666,2,3,Gemini 2.0 Flash
+17,originality,0.0500,Type II (False Negative),0.0,0,3,Gemini 2.0 Flash
+18,originality,0.1000,Type I (False Positive),0.6666666666666666,2,3,Gemini 2.0 Flash
+19,originality,0.1000,Type II (False Negative),0.0,0,3,Gemini 2.0 Flash
+20,pengram,0.0001,Type I (False Positive),0.006134969325153374,1,163,Gemini 2.0 Flash
+21,pengram,0.0001,Type II (False Negative),0.24390243902439024,40,164,Gemini 2.0 Flash
+22,pengram,0.0050,Type I (False Positive),0.024539877300613498,4,163,Gemini 2.0 Flash
+23,pengram,0.0050,Type II (False Negative),0.042682926829268296,7,164,Gemini 2.0 Flash
+24,pengram,0.0100,Type I (False Positive),0.04294478527607362,7,163,Gemini 2.0 Flash
+25,pengram,0.0100,Type II (False Negative),0.036585365853658534,6,164,Gemini 2.0 Flash
+26,pengram,0.0500,Type I (False Positive),0.1165644171779141,19,163,Gemini 2.0 Flash
+27,pengram,0.0500,Type II (False Negative),0.012195121951219513,2,164,Gemini 2.0 Flash
+28,pengram,0.1000,Type I (False Positive),0.18404907975460122,30,163,Gemini 2.0 Flash
+29,pengram,0.1000,Type II (False Negative),0.012195121951219513,2,164,Gemini 2.0 Flash
+30,roberta-base-detector,0.0001,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+31,roberta-base-detector,0.0001,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
+32,roberta-base-detector,0.0050,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+33,roberta-base-detector,0.0050,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
+34,roberta-base-detector,0.0100,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+35,roberta-base-detector,0.0100,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
+36,roberta-base-detector,0.0500,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+37,roberta-base-detector,0.0500,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
+38,roberta-base-detector,0.1000,Type I (False Positive),0.0,0,164,Gemini 2.0 Flash
+39,roberta-base-detector,0.1000,Type II (False Negative),1.0,164,164,Gemini 2.0 Flash
