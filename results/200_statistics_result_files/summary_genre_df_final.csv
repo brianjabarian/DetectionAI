@@ -1,0 +1,97 @@
+,Genre,Detector,AUROC,Δ-Mean,FPR,FNR,Optimal Threshold,model
+2,amazon review,pengram,0.9998,0.9642,0.005,0.0,0.0299,GPT-4.1
+1,amazon review,originality,0.9996,0.9811,0.0,0.0076,0.9912,GPT-4.1
+0,amazon review,gptzero,0.9849,0.9675,0.025,0.005,0.5,GPT-4.1
+3,amazon review,roberta-base-detector,0.6271,0.1153,0.29,0.51,0.9982,GPT-4.1
+5,blog,originality,1.0,0.9722,0.0,0.0,0.0372,GPT-4.1
+6,blog,pengram,0.9998,0.985,0.0,0.005,0.1954,GPT-4.1
+4,blog,gptzero,0.9975,0.995,0.005,0.0,1.0,GPT-4.1
+7,blog,roberta-base-detector,0.5701,0.109,0.75,0.07,0.912,GPT-4.1
+9,news,originality,1.0,0.9982,0.0,0.0,0.9668,GPT-4.1
+10,news,pengram,1.0,0.9964,0.0,0.0,0.3771,GPT-4.1
+8,news,gptzero,0.9933,0.9864,0.01,0.0033,0.913,GPT-4.1
+11,news,roberta-base-detector,0.4708,0.0185,0.76,0.1433,0.9994,GPT-4.1
+13,novel,originality,1.0,0.7086,0.002,0.0,0.0021,GPT-4.1
+14,novel,pengram,1.0,1.0,0.0,0.0,1.0,GPT-4.1
+12,novel,gptzero,0.998,0.996,0.004,0.0,1.0,GPT-4.1
+15,novel,roberta-base-detector,0.6165,0.0076,0.526,0.183,0.9997,GPT-4.1
+17,restaurant review,originality,1.0,0.9801,0.0,0.0,0.9971,GPT-4.1
+18,restaurant review,pengram,0.9998,0.8859,0.01,0.0,0.0002,GPT-4.1
+16,restaurant review,gptzero,0.985,0.97,0.01,0.02,1.0,GPT-4.1
+19,restaurant review,roberta-base-detector,0.587,0.08,0.5,0.28,0.9973,GPT-4.1
+20,resume,gptzero,1.0,1.0,0.0,0.0,1.0,GPT-4.1
+21,resume,originality,1.0,0.9994,0.0,0.0,0.9985,GPT-4.1
+22,resume,pengram,1.0,1.0,0.0,0.0,0.9976,GPT-4.1
+23,resume,roberta-base-detector,0.4371,0.0191,0.6927,0.0156,0.9995,GPT-4.1
+2,amazon review,pengram,0.9987,0.9279,0.005,0.005,0.0003,Claude Opus 4
+1,amazon review,originality,0.9965,0.8984,0.0379,0.0148,0.0164,Claude Opus 4
+0,amazon review,gptzero,0.9625,0.925,0.025,0.05,1.0,Claude Opus 4
+3,amazon review,roberta-base-detector,0.7845,0.199,0.275,0.255,0.9985,Claude Opus 4
+6,blog,pengram,1.0,0.9599,0.0,0.0,0.0003,Claude Opus 4
+5,blog,originality,0.9996,0.6869,0.0,0.0208,0.0021,Claude Opus 4
+4,blog,gptzero,0.9825,0.965,0.005,0.03,1.0,Claude Opus 4
+7,blog,roberta-base-detector,0.5672,0.1078,0.63,0.165,0.9915,Claude Opus 4
+10,news,pengram,0.9999,0.9872,0.0033,0.0033,0.0024,Claude Opus 4
+9,news,originality,0.9994,0.9491,0.0103,0.0103,0.0257,Claude Opus 4
+8,news,gptzero,0.9867,0.9733,0.01,0.0167,1.0,Claude Opus 4
+11,news,roberta-base-detector,0.4063,0.0418,0.7667,0.0567,0.9993,Claude Opus 4
+14,novel,pengram,1.0,1.0,0.0,0.0,1.0,Claude Opus 4
+13,novel,originality,0.9999,0.4175,0.008,0.002,0.0012,Claude Opus 4
+12,novel,gptzero,0.9815,0.963,0.005,0.032,1.0,Claude Opus 4
+15,novel,roberta-base-detector,0.6445,0.0132,0.55,0.032,0.9997,Claude Opus 4
+18,restaurant review,pengram,0.9996,0.8529,0.01,0.0,0.0001,Claude Opus 4
+17,restaurant review,originality,0.9841,0.775,0.058,0.0435,0.0115,Claude Opus 4
+16,restaurant review,gptzero,0.97,0.938,0.01,0.05,0.7963,Claude Opus 4
+19,restaurant review,roberta-base-detector,0.6224,0.0923,0.41,0.33,0.9995,Claude Opus 4
+20,resume,gptzero,1.0,1.0,0.0,0.0,1.0,Claude Opus 4
+22,resume,pengram,1.0,1.0,0.0,0.0,1.0,Claude Opus 4
+21,resume,originality,0.9999,0.9759,0.0052,0.0,0.0163,Claude Opus 4
+23,resume,roberta-base-detector,0.3965,0.0193,0.7135,0.0052,0.9994,Claude Opus 4
+1,amazon review,originality,0.9997,0.9744,0.0075,0.0,0.3667,Claude Sonnet 4
+2,amazon review,pengram,0.9996,0.9396,0.005,0.005,0.0003,Claude Sonnet 4
+0,amazon review,gptzero,0.9775,0.955,0.02,0.025,1.0,Claude Sonnet 4
+3,amazon review,roberta-base-detector,0.7626,0.1936,0.295,0.265,0.9981,Claude Sonnet 4
+6,blog,pengram,1.0,0.9897,0.0,0.0,0.3128,Claude Sonnet 4
+5,blog,originality,0.9993,0.7509,0.0,0.0069,0.0028,Claude Sonnet 4
+4,blog,gptzero,0.9875,0.975,0.005,0.02,1.0,Claude Sonnet 4
+7,blog,roberta-base-detector,0.5763,0.1244,0.69,0.07,0.975,Claude Sonnet 4
+9,news,originality,1.0,0.9873,0.0,0.0034,0.1885,Claude Sonnet 4
+10,news,pengram,1.0,0.9933,0.0,0.0,0.1737,Claude Sonnet 4
+8,news,gptzero,0.995,0.99,0.01,0.0,1.0,Claude Sonnet 4
+11,news,roberta-base-detector,0.3957,0.035,0.7633,0.07,0.9993,Claude Sonnet 4
+13,novel,originality,1.0,0.7028,0.0,0.006,0.0022,Claude Sonnet 4
+14,novel,pengram,1.0,1.0,0.0,0.0,1.0,Claude Sonnet 4
+12,novel,gptzero,0.995,0.99,0.004,0.006,1.0,Claude Sonnet 4
+15,novel,roberta-base-detector,0.6244,0.0132,0.55,0.04,0.9997,Claude Sonnet 4
+18,restaurant review,pengram,0.9999,0.8878,0.0,0.01,0.0081,Claude Sonnet 4
+17,restaurant review,originality,0.9954,0.9048,0.0145,0.0417,0.1411,Claude Sonnet 4
+16,restaurant review,gptzero,0.985,0.97,0.01,0.02,1.0,Claude Sonnet 4
+19,restaurant review,roberta-base-detector,0.6114,0.1105,0.5,0.17,0.997,Claude Sonnet 4
+20,resume,gptzero,1.0,1.0,0.0,0.0,1.0,Claude Sonnet 4
+21,resume,originality,1.0,0.9984,0.0,0.0,0.8765,Claude Sonnet 4
+22,resume,pengram,1.0,1.0,0.0,0.0,1.0,Claude Sonnet 4
+23,resume,roberta-base-detector,0.406,0.0193,0.7135,0.0052,0.9994,Claude Sonnet 4
+2,amazon review,pengram,0.9993,0.9128,0.0051,0.005,0.0004,Gemini 2.0 Flash
+1,amazon review,originality,0.9973,0.9506,0.0226,0.0156,0.0289,Gemini 2.0 Flash
+0,amazon review,gptzero,0.9625,0.925,0.025,0.05,1.0,Gemini 2.0 Flash
+3,amazon review,roberta-base-detector,0.7023,0.1739,0.365,0.315,0.994,Gemini 2.0 Flash
+5,blog,originality,1.0,0.9023,0.0,0.0,0.0022,Gemini 2.0 Flash
+6,blog,pengram,0.9998,0.9477,0.0,0.01,0.0008,Gemini 2.0 Flash
+4,blog,gptzero,0.975,0.95,0.005,0.045,1.0,Gemini 2.0 Flash
+7,blog,roberta-base-detector,0.5672,0.1025,0.525,0.29,0.9986,Gemini 2.0 Flash
+9,news,originality,1.0,0.9933,0.0,0.0034,0.5366,Gemini 2.0 Flash
+10,news,pengram,1.0,0.9898,0.0,0.0033,0.3914,Gemini 2.0 Flash
+8,news,gptzero,0.99,0.98,0.01,0.01,1.0,Gemini 2.0 Flash
+11,news,roberta-base-detector,0.4546,0.0071,0.82,0.1433,0.9975,Gemini 2.0 Flash
+13,novel,originality,1.0,0.9731,0.0,0.0,0.0071,Gemini 2.0 Flash
+14,novel,pengram,1.0,1.0,0.0,0.0,1.0,Gemini 2.0 Flash
+12,novel,gptzero,0.9975,0.995,0.005,0.0,1.0,Gemini 2.0 Flash
+15,novel,roberta-base-detector,0.6113,0.0029,0.5,0.223,0.9997,Gemini 2.0 Flash
+18,restaurant review,pengram,0.9979,0.8049,0.01,0.02,0.0001,Gemini 2.0 Flash
+17,restaurant review,originality,0.9921,0.8728,0.0145,0.0448,0.1531,Gemini 2.0 Flash
+16,restaurant review,gptzero,0.96,0.92,0.01,0.07,1.0,Gemini 2.0 Flash
+19,restaurant review,roberta-base-detector,0.557,0.0783,0.66,0.17,0.9677,Gemini 2.0 Flash
+20,resume,gptzero,1.0,1.0,0.0,0.0,1.0,Gemini 2.0 Flash
+21,resume,originality,1.0,0.9993,0.0,0.0,0.9893,Gemini 2.0 Flash
+22,resume,pengram,1.0,1.0,0.0,0.0,1.0,Gemini 2.0 Flash
+23,resume,roberta-base-detector,0.5256,0.014,0.6458,0.125,0.9996,Gemini 2.0 Flash
